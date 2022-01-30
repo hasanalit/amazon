@@ -220,5 +220,407 @@ let amazon = [
     "summary": "Купить Руль Cadillac Tiptronic (анатомия) с доставкой по Ташкенте, Ташкентской области, Андижан, Бухара, Джизак, Кашкадарья, Навоий, Наманган, Самарканд, Сурхандарья, Сырдарья, Фергана, Хорезм, Каракалпакстан. В рассрочку без кредита в рассрочку - цены, отзывы, характеристики, каталог Руль Cadillac Tiptronic (анатомия) на olcha.uz",
     "smallThumbnail": "https://olcha.uz/image/original/products/ytoRPDBDJEwvY1j03xWe3TFc3shN1etTgdaCulCfcjWHFQGMPZS5c6ixCwyo.jpeg",
   },
+  {
+    "title": "Комплект для мальчиков/ для девочек O'zbebek OZBSPKA02",
+    "categories": [
+      "baby"
+    ],
+    "id": "18",
+    "imdbRating": "⭐️⭐️",
+    "price": 7.7,
+    "garantiya": "Гарантийный срок (месяц): 0.5",
+    "saralash": "Коротко о товаре",
+    "summary": "Купить Комплект для мальчиков/ для девочек O'zbebek OZBSPKA02 с доставкой по Ташкенте, Ташкентской области, Андижан, Бухара, Джизак, Кашкадарья, Навоий, Наманган, Самарканд, Сурхандарья, Сырдарья, Фергана, Хорезм, Каракалпакстан. В рассрочку без кредита в рассрочку - цены, отзывы, характеристики, каталог Комплект для мальчиков/ для девочек O'zbebek OZBSPKA02 на olcha.uz",
+    "smallThumbnail": "https://olcha.uz/image/original/products/Dpc13bDtonrYGwSpgekLRMOD3ctpz2miLHrHiSCn9xcm7rhcX5bsFYkdgAmf.jpeg",
+  },
+  {
+    "title": "Платье для девочек O'zbebek OZB00-50",
+    "categories": [
+      "baby"
+    ],
+    "id": "19",
+    "imdbRating": "⭐️⭐️⭐️⭐️⭐️",
+    "price": 6.7,
+    "garantiya": "Гарантийный срок (месяц): 0.5",
+    "saralash": "Коротко о товаре",
+    "summary": "Купить Комплект для мальчиков/ для девочек O'zbebek OZBSPKA02 с доставкой по Ташкенте, Ташкентской области, Андижан, Бухара, Джизак, Кашкадарья, Навоий, Наманган, Самарканд, Сурхандарья, Сырдарья, Фергана, Хорезм, Каракалпакстан. В рассрочку без кредита в рассрочку - цены, отзывы, характеристики, каталог Комплект для мальчиков/ для девочек O'zbebek OZBSPKA02 на olcha.uz",
+    "smallThumbnail": "https://olcha.uz/image/original/products/Fx4oLnWjboAvDP5QWCCCGWKjqQNClDoAGbjTzlqMMzwQw2F4ArQoU67gMILY.jpeg",
+  },
+  {
+    "title": "Комбинезон для новорожденных (девочка) O'zbebek OZBDY02",
+    "categories": [
+      "baby"
+    ],
+    "id": "20",
+    "imdbRating": "⭐️⭐️⭐️",
+    "price": 5.2,
+    "garantiya": "Гарантийный срок (месяц): 0",
+    "saralash": "Коротко о товаре",
+    "summary": "Купить Комплект для мальчиков/ для девочек O'zbebek OZBSPKA02 с доставкой по Ташкенте, Ташкентской области, Андижан, Бухара, Джизак, Кашкадарья, Навоий, Наманган, Самарканд, Сурхандарья, Сырдарья, Фергана, Хорезм, Каракалпакстан. В рассрочку без кредита в рассрочку - цены, отзывы, характеристики, каталог Комплект для мальчиков/ для девочек O'zbebek OZBSPKA02 на olcha.uz",
+    "smallThumbnail": "https://olcha.uz/image/original/products/XLe4uu05ibRY2g4vUlZiCnEbfpVvHnu59atb4aGvXVv2khcxgM3WrS7fdk6q.jpeg",
+  },
+  {
+    "title": "Джемпер для новорожденных ( Девочка) O'zbebek A22-02-0003",
+    "categories": [
+      "baby"
+    ],
+    "id": "21",
+    "imdbRating": "⭐️⭐️⭐️",
+    "price": 3.8,
+    "garantiya": "Гарантийный срок (месяц): 0",
+    "saralash": "Коротко о товаре",
+    "summary": "Купить Комплект для мальчиков/ для девочек O'zbebek OZBSPKA02 с доставкой по Ташкенте, Ташкентской области, Андижан, Бухара, Джизак, Кашкадарья, Навоий, Наманган, Самарканд, Сурхандарья, Сырдарья, Фергана, Хорезм, Каракалпакстан. В рассрочку без кредита в рассрочку - цены, отзывы, характеристики, каталог Комплект для мальчиков/ для девочек O'zbebek OZBSPKA02 на olcha.uz",
+    "smallThumbnail": "https://olcha.uz/image/original/products/uXwzoN99QDmLNn7McwrjIqJ5V1OjLEtDAI4mriLujXF8vfitTNuc6EifhZzs.jpeg",
+  },
+  {
+    "title": "Пижама для мальчиков O'zbebek OZBPJM001",
+    "categories": [
+      "baby"
+    ],
+    "id": "22",
+    "imdbRating": "⭐️⭐️⭐️⭐️",
+    "price": 9.2,
+    "garantiya": "Гарантийный срок (месяц): 0",
+    "saralash": "Коротко о товаре",
+    "summary": "Купить Комплект для мальчиков/ для девочек O'zbebek OZBSPKA02 с доставкой по Ташкенте, Ташкентской области, Андижан, Бухара, Джизак, Кашкадарья, Навоий, Наманган, Самарканд, Сурхандарья, Сырдарья, Фергана, Хорезм, Каракалпакстан. В рассрочку без кредита в рассрочку - цены, отзывы, характеристики, каталог Комплект для мальчиков/ для девочек O'zbebek OZBSPKA02 на olcha.uz",
+    "smallThumbnail": "https://olcha.uz/image/original/products/SUK1t7CYbDF6kG0EkctWW8zI7EaWaO9framcsGf1Jzq7xXRNQplCsCAOHmCm.jpeg",
+  },
+  {
+    "title": "Выпрямитель Maxwell MW-2218",
+    "categories": [
+      "beauty"
+    ],
+    "id": "23",
+    "imdbRating": "⭐️⭐️⭐️⭐️",
+    "price": 18,
+    "garantiya": "Гарантийный срок (месяц): 1",
+    "saralash": "Коротко о товаре",
+    "summary": "Купить Выпрямитель Maxwell MW-2218 с доставкой по Ташкенте, Ташкентской области, Андижан, Бухара, Джизак, Кашкадарья, Навоий, Наманган, Самарканд, Сурхандарья, Сырдарья, Фергана, Хорезм, Каракалпакстан. В рассрочку без кредита в рассрочку - цены, отзывы, характеристики, каталог Выпрямитель Maxwell MW-2218 на olcha.uz",
+    "smallThumbnail": "https://olcha.uz/image/original/products/vhxf5dbdcSPXoMxRJZkva8oRmRYjFRZM4z2QExqljyfG3HF317CHKi6lmJwh.jpeg",
+  },
+  {
+    "title": "Фен Philips HP8656/00",
+    "categories": [
+      "beauty"
+    ],
+    "id": "24",
+    "imdbRating": "⭐️⭐️⭐️",
+    "price": 3,
+    "garantiya": "Гарантийный срок (месяц): 1",
+    "saralash": "Коротко о товаре",
+    "summary": "Купить Выпрямитель Maxwell MW-2218 с доставкой по Ташкенте, Ташкентской области, Андижан, Бухара, Джизак, Кашкадарья, Навоий, Наманган, Самарканд, Сурхандарья, Сырдарья, Фергана, Хорезм, Каракалпакстан. В рассрочку без кредита в рассрочку - цены, отзывы, характеристики, каталог Выпрямитель Maxwell MW-2218 на olcha.uz",
+    "smallThumbnail": "https://olcha.uz/image/original/products/fZgBgdS4nptn2Aig9s3VKIdNG0p3z6yt7bySjTKgRWgxADXVomYTPvhrpvke.jpg",
+  },
+  {
+    "title": "Фен Philips HP8661/00",
+    "categories": [
+      "beauty"
+    ],
+    "id": "25",
+    "imdbRating": "⭐️⭐️⭐️⭐️",
+    "price": 2.2,
+    "garantiya": "Гарантийный срок (месяц): 0",
+    "saralash": "Коротко о товаре",
+    "summary": "Купить Выпрямитель Maxwell MW-2218 с доставкой по Ташкенте, Ташкентской области, Андижан, Бухара, Джизак, Кашкадарья, Навоий, Наманган, Самарканд, Сурхандарья, Сырдарья, Фергана, Хорезм, Каракалпакстан. В рассрочку без кредита в рассрочку - цены, отзывы, характеристики, каталог Выпрямитель Maxwell MW-2218 на olcha.uz",
+    "smallThumbnail": "https://olcha.uz/image/original/products/d8v86AU5SxwAND0hTW2Nb0OBsCh8DjXbY5sdqXhEJcLi1oiG9Xt2Ldwz5k8x.jpg",
+  },
+  {
+    "title": "Фен Polaris PHD 2245Ti",
+    "categories": [
+      "beauty"
+    ],
+    "id": "26",
+    "imdbRating": "⭐️⭐️⭐️⭐️⭐️",
+    "price": 30.2,
+    "garantiya": "Гарантийный срок (месяц): 0",
+    "saralash": "Коротко о товаре",
+    "summary": "Купить Выпрямитель Maxwell MW-2218 с доставкой по Ташкенте, Ташкентской области, Андижан, Бухара, Джизак, Кашкадарья, Навоий, Наманган, Самарканд, Сурхандарья, Сырдарья, Фергана, Хорезм, Каракалпакстан. В рассрочку без кредита в рассрочку - цены, отзывы, характеристики, каталог Выпрямитель Maxwell MW-2218 на olcha.uz",
+    "smallThumbnail": "https://olcha.uz/image/original/products/WyeLK1bsXotLP7M4cKWZ1fxqWwF9Q0kClIlWQ3UFSK0gIOOS4gTcbSFCimDX.jpg",
+  },
+  {
+    "title": "Hugo Woman Extreme Hugo Boss 75ml EDP (Original)",
+    "categories": [
+      "beauty"
+    ],
+    "id": "27",
+    "imdbRating": "⭐️⭐️⭐️⭐️⭐️",
+    "price": 30.2,
+    "garantiya": "Гарантийный срок (месяц): 1",
+    "saralash": "Коротко о товаре",
+    "summary": "Купить Выпрямитель Maxwell MW-2218 с доставкой по Ташкенте, Ташкентской области, Андижан, Бухара, Джизак, Кашкадарья, Навоий, Наманган, Самарканд, Сурхандарья, Сырдарья, Фергана, Хорезм, Каракалпакстан. В рассрочку без кредита в рассрочку - цены, отзывы, характеристики, каталог Выпрямитель Maxwell MW-2218 на olcha.uz",
+    "smallThumbnail": "https://olcha.uz/image/original/products/7ljWG4wsRwyf9slca15Ox8DY076g3t8YcQb9xkRnoeqs7h2KcGi175koDhgH.jpeg",
+  },
+  {
+    "title": "Миска из нержавеющей стали с крышкой Fissman 1,5л 5114",
+    "categories": [
+      "kitchen"
+    ],
+    "id": "28",
+    "imdbRating": "⭐️⭐️⭐️",
+    "price": 17.2,
+    "garantiya": "Гарантийный срок (месяц): 1",
+    "saralash": "Коротко о товаре",
+    "summary": "Купить Миска из нержавеющей стали с крышкой Fissman 1,5л 5114 с доставкой по Ташкенте, Ташкентской области, Андижан, Бухара, Джизак, Кашкадарья, Навоий, Наманган, Самарканд, Сурхандарья, Сырдарья, Фергана, Хорезм, Каракалпакстан. В рассрочку без кредита в рассрочку - цены, отзывы, характеристики, каталог Миска из нержавеющей стали с крышкой Fissman 1,5л 5114 на olcha.uz",
+    "smallThumbnail": "https://olcha.uz/image/original/products/OaWD31SBCcc222TduUt0qfO4pv4vHCAJ43sWO7Q8935VXOOVUNlxhW85g9N2.jpeg",
+  },
+  {
+    "title": "Набор казанов из 5 предметов Uaken 121121",
+    "categories": [
+      "kitchen"
+    ],
+    "id": "29",
+    "imdbRating": "⭐️⭐️",
+    "price": 15,
+    "garantiya": "Гарантийный срок (месяц): 1",
+    "saralash": "Коротко о товаре",
+    "summary": "Купить Миска из нержавеющей стали с крышкой Fissman 1,5л 5114 с доставкой по Ташкенте, Ташкентской области, Андижан, Бухара, Джизак, Кашкадарья, Навоий, Наманган, Самарканд, Сурхандарья, Сырдарья, Фергана, Хорезм, Каракалпакстан. В рассрочку без кредита в рассрочку - цены, отзывы, характеристики, каталог Миска из нержавеющей стали с крышкой Fissman 1,5л 5114 на olcha.uz",
+    "smallThumbnail": "https://olcha.uz/image/original/products/InAcmMmU4I8RyjIOl6DS7rbjj7nHgfVrbK9kJ5zS5oqwwokIjxGYKY7tUS0d.png",
+  },
+  {
+    "title": "Казан для плова Мечта «Гранит»",
+    "categories": [
+      "kitchen"
+    ],
+    "id": "30",
+    "imdbRating": "⭐️⭐️⭐️",
+    "price": 28.4,
+    "garantiya": "Гарантийный срок (месяц): 1",
+    "saralash": "Коротко о товаре",
+    "summary": "Купить Казан для плова Мечта «Гранит» с доставкой по Ташкенте, Ташкентской области, Андижан, Бухара, Джизак, Кашкадарья, Навоий, Наманган, Самарканд, Сурхандарья, Сырдарья, Фергана, Хорезм, Каракалпакстан. В рассрочку без кредита в рассрочку - цены, отзывы, характеристики, каталог Казан для плова Мечта «Гранит» на olcha.uz",
+    "smallThumbnail": "https://olcha.uz/image/original/products/KttZoZtl9RDbM0AXtufPZkCMYmpDX4IotwbXXnZKd3ngO8Jy24dfa3F9lz6E.jpeg",
+  },
+  {
+    "title": "Сковорода-Бриллиант несъемная Мечта",
+    "categories": [
+      "kitchen"
+    ],
+    "id": "31",
+    "imdbRating": "⭐️⭐️⭐️⭐️⭐️",
+    "price": 21.1,
+    "garantiya": "Гарантийный срок (месяц): 1",
+    "saralash": "Коротко о товаре",
+    "summary": "Купить Сковорода-Бриллиант несъемная Мечта с доставкой по Ташкенте, Ташкентской области, Андижан, Бухара, Джизак, Кашкадарья, Навоий, Наманган, Самарканд, Сурхандарья, Сырдарья, Фергана, Хорезм, Каракалпакстан. В рассрочку без кредита в рассрочку - цены, отзывы, характеристики, каталог Сковорода-Бриллиант несъемная Мечта на olcha.uz",
+    "smallThumbnail": "https://olcha.uz/image/original/products/8hRjc5rUasf46CakNN8XXqCkpjvJciayG7hKyndCscOS0Vy87R8UqhxnVEXA.jpeg",
+  },
+  {
+    "title": "Набор сервиса Mina 1220",
+    "categories": [
+      "kitchen"
+    ],
+    "id": "32",
+    "imdbRating": "⭐️⭐️⭐️⭐️⭐️",
+    "price": 223.4,
+    "garantiya": "Гарантийный срок (месяц): 1",
+    "saralash": "Коротко о товаре",
+    "summary": "Купить Набор сервиса Mina 1220 с доставкой по Ташкенте, Ташкентской области, Андижан, Бухара, Джизак, Кашкадарья, Навоий, Наманган, Самарканд, Сурхандарья, Сырдарья, Фергана, Хорезм, Каракалпакстан. В рассрочку без кредита в рассрочку - цены, отзывы, характеристики, каталог Набор сервиса Mina 1220 на olcha.uz",
+    "smallThumbnail": "https://olcha.uz/image/original/products/DE6hup9o0HegPMVyQLUf1uTo9wxHfW7wQqkZj4qz8n1mmS64we6sBFdHJxje.png",
+  },
+  {
+    "title": "Телевизор Panasonic TX-49HXR900",
+    "categories": [
+      "television"
+    ],
+    "id": "33",
+    "imdbRating": "⭐️⭐️⭐️⭐️⭐️",
+    "price": 800,
+    "garantiya": "Гарантийный срок (месяц): 1",
+    "saralash": "Коротко о товаре",
+    "summary": "Купить Телевизор Panasonic TX-49HXR900 с доставкой по Ташкенте, Ташкентской области, Андижан, Бухара, Джизак, Кашкадарья, Навоий, Наманган, Самарканд, Сурхандарья, Сырдарья, Фергана, Хорезм, Каракалпакстан. В рассрочку без кредита в рассрочку - цены, отзывы, характеристики, каталог Телевизор Panasonic TX-49HXR900 на olcha.uz",
+    "smallThumbnail": "https://olcha.uz/image/original/products/RlBdYK87RagPjneeeXJh5S2N9dDGX74q9W2pBrH35c2PGfsBZYtpKuoilEft.jpeg",
+  },  {
+    "title": "Телевизор Artel UA75H3502 Android TV",
+    "categories": [
+      "television"
+    ],
+    "id": "34",
+    "imdbRating": "⭐️⭐️⭐️⭐️⭐️",
+    "price": 2250,
+    "garantiya": "Гарантийный срок (месяц): 1",
+    "saralash": "Коротко о товаре",
+    "summary": "Купить Телевизор Panasonic TX-49HXR900 с доставкой по Ташкенте, Ташкентской области, Андижан, Бухара, Джизак, Кашкадарья, Навоий, Наманган, Самарканд, Сурхандарья, Сырдарья, Фергана, Хорезм, Каракалпакстан. В рассрочку без кредита в рассрочку - цены, отзывы, характеристики, каталог Телевизор Panasonic TX-49HXR900 на olcha.uz",
+    "smallThumbnail": "https://olcha.uz/image/original/products/72FcV0sswTxq9VoH0P7lH6jAcNEgINhGC5FvLtOPhPqbqEf1Op3gwfKjH02p.jpeg",
+  },
+  {
+    "title": "Телевизор Premier 32PRM600S",
+    "categories": [
+      "television"
+    ],
+    "id": "35",
+    "imdbRating": "⭐️⭐️",
+    "price": 300,
+    "garantiya": "Гарантийный срок (месяц): 1",
+    "saralash": "Коротко о товаре",
+    "summary": "Купить Телевизор Panasonic TX-49HXR900 с доставкой по Ташкенте, Ташкентской области, Андижан, Бухара, Джизак, Кашкадарья, Навоий, Наманган, Самарканд, Сурхандарья, Сырдарья, Фергана, Хорезм, Каракалпакстан. В рассрочку без кредита в рассрочку - цены, отзывы, характеристики, каталог Телевизор Panasonic TX-49HXR900 на olcha.uz",
+    "smallThumbnail": "https://olcha.uz/image/original/products/G3PrZP1buzMHcDaeaOe63fjt5Lyy09rOcyNJVw4Kq0ERy3O2JBLG0j8PZqbP.jpeg",
+  },
+  {
+    "title": "Акустическая система Meirende MR-103",
+    "categories": [
+      "television"
+    ],
+    "id": "36",
+    "imdbRating": "⭐️⭐️⭐️",
+    "price": 176.6,
+    "garantiya": "Гарантийный срок (месяц): 1",
+    "saralash": "Коротко о товаре",
+    "summary": "Купить Акустическая система Meirende MR-103 с доставкой по Ташкенте, Ташкентской области, Андижан, Бухара, Джизак, Кашкадарья, Навоий, Наманган, Самарканд, Сурхандарья, Сырдарья, Фергана, Хорезм, Каракалпакстан. В рассрочку без кредита в рассрочку - цены, отзывы, характеристики, каталог Акустическая система Meirende MR-103 на olcha.uz",
+    "smallThumbnail": "https://olcha.uz/image/original/products/7XEZ6dKpWu00uwcE0yVpPUtVPHMdAXNP9YOWEjNuUV587PhsVgrTBCFTzuTU.jpeg",
+  },
+  {
+    "title": "Музыкальный центр Philips MCM2300/12",
+    "categories": [
+      "television"
+    ],
+    "id": "37",
+    "imdbRating": "⭐️⭐️⭐️⭐️",
+    "price": 117.5,
+    "garantiya": "Гарантийный срок (месяц): 1",
+    "saralash": "Коротко о товаре",
+    "summary": "Купить Телевизор Panasonic TX-49HXR900 с доставкой по Ташкенте, Ташкентской области, Андижан, Бухара, Джизак, Кашкадарья, Навоий, Наманган, Самарканд, Сурхандарья, Сырдарья, Фергана, Хорезм, Каракалпакстан. В рассрочку без кредита в рассрочку - цены, отзывы, характеристики, каталог Телевизор Panasonic TX-49HXR900 на olcha.uz",
+    "smallThumbnail": "https://olcha.uz/image/original/products/BEDaxtdhV4ESS3XEUcnFEH68p8Uw3Jwa17H651V88SakyR0Rjuw4UMm7rXlB.jpeg",
+  },
+  {
+    "title": "Xiaomi Mi Box 4K",
+    "categories": [
+      "television"
+    ],
+    "id": "38",
+    "imdbRating": "⭐️⭐️",
+    "price": 67.5,
+    "garantiya": "Гарантийный срок (месяц): 0",
+    "saralash": "Коротко о товаре",
+    "summary": "Купить Xiaomi Mi Box 4K с доставкой по Ташкенте, Ташкентской области, Андижан, Бухара, Джизак, Кашкадарья, Навоий, Наманган, Самарканд, Сурхандарья, Сырдарья, Фергана, Хорезм, Каракалпакстан. В рассрочку без кредита в рассрочку - цены, отзывы, характеристики, каталог Xiaomi Mi Box 4K на olcha.uz",
+    "smallThumbnail": "https://olcha.uz/image/original/products/KlEQn8JD8lqjFEfvp8FmJJy2wU2Xsq4hK5no5GiGS9SLaM5VJ7jW0IWaHRzn.jpeg",
+  },
+  {
+    "title": "Телевизор Samsung 75Q950T 8K",
+    "categories": [
+      "television"
+    ],
+    "id": "39",
+    "imdbRating": "⭐️⭐️⭐️⭐️⭐️",
+    "price": 6890,
+    "garantiya": "Гарантийный срок (месяц): 10",
+    "saralash": "Коротко о товаре",
+    "summary": "Купить Телевизор Samsung 75Q950T 8K с доставкой по Ташкенте, Ташкентской области, Андижан, Бухара, Джизак, Кашкадарья, Навоий, Наманган, Самарканд, Сурхандарья, Сырдарья, Фергана, Хорезм, Каракалпакстан. В рассрочку без кредита в рассрочку - цены, отзывы, характеристики, каталог Телевизор Samsung 75Q950T 8K на olcha.uz",
+    "smallThumbnail": "https://olcha.uz/image/original/products/LHGbsVnxGehfv3q9nquRdgL2JFFIL78NZXgn0bHgUSmriWkAZ3DkFWv1ASmJ.jpeg",
+  },
+  {
+    "title": "Стиральная машина Samsung WW10T654CLX/LD",
+    "categories": [
+      "washingmachin"
+    ],
+    "id": "40",
+    "imdbRating": "⭐️⭐️⭐️",
+    "price": 712,
+    "garantiya": "Гарантийный срок (месяц): 2",
+    "saralash": "Коротко о товаре",
+    "summary": "Купить Стиральная машина Samsung WW10T654CLX/LD с доставкой по Ташкенте, Ташкентской области, Андижан, Бухара, Джизак, Кашкадарья, Навоий, Наманган, Самарканд, Сурхандарья, Сырдарья, Фергана, Хорезм, Каракалпакстан. В рассрочку без кредита в рассрочку - цены, отзывы, характеристики, каталог Стиральная машина Samsung WW10T654CLX/LD на olcha.uz",
+    "smallThumbnail": "https://olcha.uz/image/original/products/EjDA0Oq0RETXlLGjc71cncwjpNrAxstEjkLsHdIjGkwwDE0b3MY1OODO5OCP.jpeg",
+  },
+  {
+    "title": "Стиральная машина Samsung WW60K40G09SDLD",
+    "categories": [
+      "washingmachin"
+    ],
+    "id": "41",
+    "imdbRating": "⭐️⭐️⭐️⭐️",
+    "price": 520,
+    "garantiya": "Гарантийный срок (месяц): 2",
+    "saralash": "Коротко о товаре",
+    "summary": "Купить Стиральная машина Samsung WW10T654CLX/LD с доставкой по Ташкенте, Ташкентской области, Андижан, Бухара, Джизак, Кашкадарья, Навоий, Наманган, Самарканд, Сурхандарья, Сырдарья, Фергана, Хорезм, Каракалпакстан. В рассрочку без кредита в рассрочку - цены, отзывы, характеристики, каталог Стиральная машина Samsung WW10T654CLX/LD на olcha.uz",
+    "smallThumbnail": "https://olcha.uz/image/original/products/39DmF6IREakXPR9fXk73wVNmZumDyl6e94mnJfAZmverscaqYJvAv26G11Zv.jpeg",
+  },
+  {
+    "title": "Стиральная машина Samsung WD80T554CBX",
+    "categories": [
+      "washingmachin"
+    ],
+    "id": "42",
+    "imdbRating": "⭐️⭐️⭐️⭐️⭐️",
+    "price": 712,
+    "garantiya": "Гарантийный срок (месяц): 3",
+    "saralash": "Коротко о товаре",
+    "summary": "Купить Стиральная машина Samsung WW10T654CLX/LD с доставкой по Ташкенте, Ташкентской области, Андижан, Бухара, Джизак, Кашкадарья, Навоий, Наманган, Самарканд, Сурхандарья, Сырдарья, Фергана, Хорезм, Каракалпакстан. В рассрочку без кредита в рассрочку - цены, отзывы, характеристики, каталог Стиральная машина Samsung WW10T654CLX/LD на olcha.uz",
+    "smallThumbnail": "https://olcha.uz/image/original/products/BnUKAioa1gGQXXn6mTwFeZ99T2GR8tu253njoMIVHep7Zh8Q0ek8OiA8PdJM.jpeg",
+  },
+  {
+    "title": "Nokia 3310 (2017), Blue",
+    "categories": [
+      "phone"
+    ],
+    "id": "43",
+    "imdbRating": "⭐️",
+    "price": 99.9,
+    "garantiya": "Гарантийный срок (месяц): 100",
+    "saralash": "Коротко о товаре",
+    "summary": "Купить Nokia 3310 (2017), Blue с доставкой по Ташкенте, Ташкентской области, Андижан, Бухара, Джизак, Кашкадарья, Навоий, Наманган, Самарканд, Сурхандарья, Сырдарья, Фергана, Хорезм, Каракалпакстан. В рассрочку без кредита в рассрочку - цены, отзывы, характеристики, каталог Nokia 3310 (2017), Blue на olcha.uz",
+    "smallThumbnail": "https://olcha.uz/image/original/products/zAGiTiBwXiOZEafj9gdutTCARVQ4FX8N8Ba6FVRtmNGzPsxKrmePV41ey9sA.jpg",
+  },
+  {
+    "title": "Apple Iphone 13 Mini 512GB Midnight",
+    "categories": [
+      "phone"
+    ],
+    "id": "44",
+    "imdbRating": "⭐️⭐️⭐️⭐️",
+    "price": 1100.9,
+    "garantiya": "Гарантийный срок (месяц): 2",
+    "saralash": "Коротко о товаре",
+    "summary": "Купить Apple Iphone 13 Mini 512GB Midnight с доставкой по Ташкенте, Ташкентской области, Андижан, Бухара, Джизак, Кашкадарья, Навоий, Наманган, Самарканд, Сурхандарья, Сырдарья, Фергана, Хорезм, Каракалпакстан. В рассрочку без кредита в рассрочку - цены, отзывы, характеристики, каталог Apple Iphone 13 Mini 512GB Midnight на olcha.uz",
+    "smallThumbnail": "https://olcha.uz/image/original/products/UsyqYtIa8OK5FR3JjsXaWcZ8wy0RsVpR9XXixqBYZ7snOBY1a15w2PKEJvNG.jpeg",
+  },
+  {
+    "title": "Apple iPhone 13 Pro Max 256GB Dual Graphite",
+    "categories": [
+      "phone"
+    ],
+    "id": "45",
+    "imdbRating": "⭐️⭐️⭐️⭐️⭐️",
+    "price": 1660,
+    "garantiya": "Гарантийный срок (месяц): 2",
+    "saralash": "Коротко о товаре",
+    "summary": "Купить Nokia 3310 (2017), Blue с доставкой по Ташкенте, Ташкентской области, Андижан, Бухара, Джизак, Кашкадарья, Навоий, Наманган, Самарканд, Сурхандарья, Сырдарья, Фергана, Хорезм, Каракалпакстан. В рассрочку без кредита в рассрочку - цены, отзывы, характеристики, каталог Nokia 3310 (2017), Blue на olcha.uz",
+    "smallThumbnail": "https://olcha.uz/image/original/products/sFKzEB02qyuCxSaQikaoke4w0g6hy45KpA7s8AMeOK2idRPRjbRFhHlvLKk5.jpeg",
+  },
+  {
+    "title": "Samsung Galaxy Z Flip3 5G 8/256GB",
+    "categories": [
+      "phone"
+    ],
+    "id": "46",
+    "imdbRating": "⭐️⭐️⭐️⭐️",
+    "price": 1110,
+    "garantiya": "Гарантийный срок (месяц): 2",
+    "saralash": "Коротко о товаре",
+    "summary": "Купить Samsung Galaxy Z Flip3 5G 8/256GB, Blue с доставкой по Ташкенте, Ташкентской области, Андижан, Бухара, Джизак, Кашкадарья, Навоий, Наманган, Самарканд, Сурхандарья, Сырдарья, Фергана, Хорезм, Каракалпакстан. В рассрочку без кредита в рассрочку - цены, отзывы, характеристики, каталог Nokia 3310 (2017), Blue на olcha.uz",
+    "smallThumbnail": "https://olcha.uz/image/original/products/IZ2r5myCTdCRfQNqWTaiWrOUirJ8kBeAGaKbV0SxnRm05rUKnCfcrKAen9IC.jpeg",
+  },
+  {
+    "title": "Сумка для ноутбука Dell Pro Briefcase 15,6",
+    "categories": [
+      "bag"
+    ],
+    "id": "47",
+    "imdbRating": "⭐️⭐️⭐️⭐️",
+    "price": 81,
+    "garantiya": "Гарантийный срок (месяц): 1",
+    "saralash": "Коротко о товаре",
+    "summary": "Купить Сумка для ноутбука Dell Pro Briefcase 15,6 с доставкой по Ташкенте, Ташкентской области, Андижан, Бухара, Джизак, Кашкадарья, Навоий, Наманган, Самарканд, Сурхандарья, Сырдарья, Фергана, Хорезм, Каракалпакстан. В рассрочку без кредита в рассрочку - цены, отзывы, характеристики, каталог Сумка для ноутбука Dell Pro Briefcase 15,6 на olcha.uz",
+    "smallThumbnail": "https://olcha.uz/image/original/products/03fN5Kid1lMaTlkalNPZ2tmVF45njrSI3ZfXP9xKoJOQJkpgQEm016WmBKiY.jpeg",
+  },
+  {
+    "title": "Уникальная сумка-рюкзак для мамы",
+    "categories": [
+      "bag"
+    ],
+    "id": "48",
+    "imdbRating": "⭐️⭐️⭐️",
+    "price": 1110,
+    "garantiya": "Гарантийный срок (месяц): 1",
+    "saralash": "Коротко о товаре",
+    "summary": "Купить Уникальная сумка-рюкзак для мамы, Silver с доставкой по Ташкенте, Ташкентской области, Андижан, Бухара, Джизак, Кашкадарья, Навоий, Наманган, Самарканд, Сурхандарья, Сырдарья, Фергана, Хорезм, Каракалпакстан. В рассрочку без кредита в рассрочку - цены, отзывы, характеристики, каталог Уникальная сумка-рюкзак для мамы, Silver на olcha.uz",
+    "smallThumbnail": "https://olcha.uz/image/original/products/kTx2iXDawAh3DEmVSEVneDBq6xVQMaPE3mxLloW0SNqJG0NRTL3AsKX70yDv.jpeg",
+  },
 
 ];
