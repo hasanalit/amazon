@@ -1,6 +1,6 @@
 let amazon = [
   {
-    "title": "Radar detector Inspector Spirit Air",
+    "title": "Radar detector Inspector Air",
     "categories": [
       "Automtive"
     ],
@@ -52,7 +52,7 @@ let amazon = [
     "smallThumbnail": "https://olcha.uz/image/original/products/VSslansEXSdhJDF07HgBE10EOWTgUcZ0xLVcYnO3PSVRxvCJdZTOuyCaNmTP.jpeg",
   },
   {
-    "title": "Rims for car NewStyling 005 R17 (4pcs)",
+    "title": "Rims for car NewStyling",
     "categories": [
       "Automtive"
     ],
@@ -65,7 +65,7 @@ let amazon = [
     "smallThumbnail": "https://olcha.uz/image/original/products/yXPmV9kqHC8lZLTP9Xxy3oPjcfrN0dmNgg5K0VCfvMcJBjHMnmJYYbMDx6LP.jpeg",
   },
   {
-    "title": "Disc for car NewStyle 003 R15 4pcs",
+    "title": "Disc for car NewStyle",
     "categories": [
       "Automtive"
     ],
@@ -78,7 +78,7 @@ let amazon = [
     "smallThumbnail": "https://olcha.uz/image/original/products/aQR8xaNgvM6hqqzNhoQbgDEf872hqPz0ufNyxYOneRxn7kkywoPsJSoIcSsh.jpeg",
   },
   {
-    "title": "Disc for Chevrolet Redline 15",
+    "title": "Disc for Chevrolet Redline",
     "categories": [
       "Automtive"
     ],
@@ -91,7 +91,7 @@ let amazon = [
     "smallThumbnail": "https://olcha.uz/image/original/products/tpUqCeWfQu1AkcScT8HZhBcKAMeFDHFIICuhixkHZsEgf9CLgeshNOzuSDAD.jpeg",
   },
   {
-    "title": "Steering wheel Mercedes Tiptronic (anatomy)",
+    "title": "Steering wheel Mercedes",
     "categories": [
       "Automtive"
     ],
@@ -104,7 +104,7 @@ let amazon = [
     "smallThumbnail": "https://olcha.uz/image/original/products/lh4aH0Wl6N2yJgBAyTtxwgy3lX9oMRTSbHwJw8TKaAGZ5vPAkyvlKfLFHEDi.jpeg",
   },
   {
-    "title": "Steering wheel Cadillac Tiptronic (anatomy)",
+    "title": "Steering wheel Cadillac Tiptronic",
     "categories": [
       "Automtive"
     ],
@@ -117,7 +117,7 @@ let amazon = [
     "smallThumbnail": "https://olcha.uz/image/original/products/uUcQIogo3PgvRfiYqh1en3KfhGfOZJA1VjIYmynzbSHE4XXvnJWmRUsf5a02.jpeg",
   },
   {
-    "title": "Steering wheel Hyundai Anatomy Tiptronic (anatomy)",
+    "title": "Steering wheel Hyundai Anatomy",
     "categories": [
       "Automtive"
     ],
@@ -130,7 +130,7 @@ let amazon = [
     "smallThumbnail": "https://olcha.uz/image/original/products/cHdEVpeKWn1W4ccOLL2daJGm1X9OEOKZ9s9aIvzT52YCdh7wMq6cp4sRGVlB.jpeg",
   },
   {
-    "title": "Car seat covers Cardinar Turk-2 Silver Cobalt",
+    "title": "Car seat covers",
     "categories": [
       "Automtive"
     ],
@@ -143,7 +143,7 @@ let amazon = [
     "smallThumbnail": "https://olcha.uz/image/original/products/j3SxkCQXpTM9mFSdqtHQqZ05hbhH1jCJ0wTdqp5TA94toQSRlLGWrXM51Ht7.jpeg",
   },
   {
-    "title": "Авточехлы CaCar seat covers Cardinar Turk-1 Silver Lacetti-3rdinar Turk-1 Silver Lacetti-3",
+    "title": "Авточехлы CaCar seat covers",
     "categories": [
       "Automtive"
     ],
@@ -156,7 +156,7 @@ let amazon = [
     "smallThumbnail": "https://olcha.uz/image/original/products/xoxJaqJBtYpIvLoyf5PwrRvDmjS35DNmGk6mpbHDu2NrAZoZ7D4Eb3g7OQrW.jpeg",
   },
   {
-    "title": "Car radio 2 DIN Sony DSX-B700",
+    "title": "Car radio 2 DIN Sony",
     "categories": [
       "Automtive"
     ],
@@ -169,7 +169,7 @@ let amazon = [
     "smallThumbnail": "https://olcha.uz/image/original/products/zF5weG2kdAEPMSLuUViNHodgJDu3xkuucJNBgU9BtMYsUv8qjlygfvleNr47.jpeg",
   },
   {
-    "title": "Car radio Sony CDX-G1200U",
+    "title": "Car radio Sony",
     "categories": [
       "Automtive"
     ],
@@ -182,7 +182,7 @@ let amazon = [
     "smallThumbnail": "https://olcha.uz/image/original/products/8ar4x4xzShdFNUCL9TLtNrfIErP7M0AmPbyEkdPJdPNcOceBB0v3z2s6ql1r.jpeg",
   },
   {
-    "title": "Rear lights Chevrolet Cobalt, red",
+    "title": "Rear lights Chevrolet Cobalt",
     "categories": [
       "Automtive"
     ],
@@ -195,7 +195,7 @@ let amazon = [
     "smallThumbnail": "https://olcha.uz/image/original/products/xgYLTrJAXlYoh3ALurfzeG2yEyK9DR3ew1QYS9AusHop6xuTfD2urjD0VEex.jpeg",
   },
   {
-    "title": "Headlights Lacetti Gentra American",
+    "title": "Headlights American",
     "categories": [
       "Automtive"
     ],
@@ -208,7 +208,7 @@ let amazon = [
     "smallThumbnail": "https://olcha.uz/image/original/products/7vR8au4OmHMnLMG3ynRvOSZXFXVAFYfdqYJ4WHSYcqe3QT4zc86kvPs0MfIM.jpeg",
   },
   {
-    "title": "Bar armrest Malibu 2",
+    "title": "Bar armrest Malibu",
     "categories": [
       "Automtive"
     ],
@@ -221,7 +221,7 @@ let amazon = [
     "smallThumbnail": "https://olcha.uz/image/original/products/ytoRPDBDJEwvY1j03xWe3TFc3shN1etTgdaCulCfcjWHFQGMPZS5c6ixCwyo.jpeg",
   },
   {
-    "title": "Set for boys/girls O'zbebek OZBSPKA02",
+    "title": "Set for boys/girls O'zbebek",
     "categories": [
       "baby"
     ],
@@ -234,7 +234,7 @@ let amazon = [
     "smallThumbnail": "https://olcha.uz/image/original/products/Dpc13bDtonrYGwSpgekLRMOD3ctpz2miLHrHiSCn9xcm7rhcX5bsFYkdgAmf.jpeg",
   },
   {
-    "title": "Dress for girls O'zbebek OZB00-50",
+    "title": "Dress for girls O'zbebek",
     "categories": [
       "baby"
     ],
@@ -247,7 +247,7 @@ let amazon = [
     "smallThumbnail": "https://olcha.uz/image/original/products/Fx4oLnWjboAvDP5QWCCCGWKjqQNClDoAGbjTzlqMMzwQw2F4ArQoU67gMILY.jpeg",
   },
   {
-    "title": "Overalls for newborns (girl) O'zbebek OZBDY02",
+    "title": "Overalls for newborns",
     "categories": [
       "baby"
     ],
@@ -260,7 +260,7 @@ let amazon = [
     "smallThumbnail": "https://olcha.uz/image/original/products/XLe4uu05ibRY2g4vUlZiCnEbfpVvHnu59atb4aGvXVv2khcxgM3WrS7fdk6q.jpeg",
   },
   {
-    "title": "Jumper for newborns (Girl) O'zbebek A22-02-0003",
+    "title": "Jumper for newborns",
     "categories": [
       "baby"
     ],
@@ -273,7 +273,7 @@ let amazon = [
     "smallThumbnail": "https://olcha.uz/image/original/products/uXwzoN99QDmLNn7McwrjIqJ5V1OjLEtDAI4mriLujXF8vfitTNuc6EifhZzs.jpeg",
   },
   {
-    "title": "Pajamas for boys O'zbebek OZBPJM001",
+    "title": "Pajamas for boys O'zbebek",
     "categories": [
       "baby"
     ],
@@ -286,7 +286,7 @@ let amazon = [
     "smallThumbnail": "https://olcha.uz/image/original/products/SUK1t7CYbDF6kG0EkctWW8zI7EaWaO9framcsGf1Jzq7xXRNQplCsCAOHmCm.jpeg",
   },
   {
-    "title": "Rectifier Maxwell MW-2218",
+    "title": "Rectifier Maxwell",
     "categories": [
       "beauty"
     ],
@@ -299,7 +299,7 @@ let amazon = [
     "smallThumbnail": "https://olcha.uz/image/original/products/vhxf5dbdcSPXoMxRJZkva8oRmRYjFRZM4z2QExqljyfG3HF317CHKi6lmJwh.jpeg",
   },
   {
-    "title": "Hair dryer Philips HP8656/00",
+    "title": "Hair dryer Philips",
     "categories": [
       "beauty"
     ],
@@ -312,7 +312,7 @@ let amazon = [
     "smallThumbnail": "https://olcha.uz/image/original/products/fZgBgdS4nptn2Aig9s3VKIdNG0p3z6yt7bySjTKgRWgxADXVomYTPvhrpvke.jpg",
   },
   {
-    "title": "Hair dryer Philips HP8661/00",
+    "title": "Hair dryer Philips",
     "categories": [
       "beauty"
     ],
@@ -325,7 +325,7 @@ let amazon = [
     "smallThumbnail": "https://olcha.uz/image/original/products/d8v86AU5SxwAND0hTW2Nb0OBsCh8DjXbY5sdqXhEJcLi1oiG9Xt2Ldwz5k8x.jpg",
   },
   {
-    "title": "Hair dryer Polaris PHD 2245Ti",
+    "title": "Hair dryer Polaris",
     "categories": [
       "beauty"
     ],
@@ -338,7 +338,7 @@ let amazon = [
     "smallThumbnail": "https://olcha.uz/image/original/products/WyeLK1bsXotLP7M4cKWZ1fxqWwF9Q0kClIlWQ3UFSK0gIOOS4gTcbSFCimDX.jpg",
   },
   {
-    "title": "Hugo Woman Extreme Hugo Boss 75ml EDP (Original)",
+    "title": "Hugo Woman Extreme Hugo Boss",
     "categories": [
       "beauty"
     ],
@@ -351,7 +351,7 @@ let amazon = [
     "smallThumbnail": "https://olcha.uz/image/original/products/7ljWG4wsRwyf9slca15Ox8DY076g3t8YcQb9xkRnoeqs7h2KcGi175koDhgH.jpeg",
   },
   {
-    "title": "Stainless steel bowl with lid Fissman 1.5l 5114",
+    "title": "Stainless steel bowl",
     "categories": [
       "kitchen"
     ],
@@ -364,7 +364,7 @@ let amazon = [
     "smallThumbnail": "https://olcha.uz/image/original/products/OaWD31SBCcc222TduUt0qfO4pv4vHCAJ43sWO7Q8935VXOOVUNlxhW85g9N2.jpeg",
   },
   {
-    "title": "5-piece cauldron set Uaken 121121",
+    "title": "5-piece cauldron set",
     "categories": [
       "kitchen"
     ],
@@ -377,7 +377,7 @@ let amazon = [
     "smallThumbnail": "https://olcha.uz/image/original/products/InAcmMmU4I8RyjIOl6DS7rbjj7nHgfVrbK9kJ5zS5oqwwokIjxGYKY7tUS0d.png",
   },
   {
-    "title": "Kazan for pilaf Dream Granite",
+    "title": "Kazan for pilaf Dream",
     "categories": [
       "kitchen"
     ],
@@ -390,7 +390,7 @@ let amazon = [
     "smallThumbnail": "https://olcha.uz/image/original/products/KttZoZtl9RDbM0AXtufPZkCMYmpDX4IotwbXXnZKd3ngO8Jy24dfa3F9lz6E.jpeg",
   },
   {
-    "title": "Frying pan-Brilliant non-removable Dream",
+    "title": "Frying pan-Brilliant non-removable",
     "categories": [
       "kitchen"
     ],
@@ -403,7 +403,7 @@ let amazon = [
     "smallThumbnail": "https://olcha.uz/image/original/products/8hRjc5rUasf46CakNN8XXqCkpjvJciayG7hKyndCscOS0Vy87R8UqhxnVEXA.jpeg",
   },
   {
-    "title": "Service kit Mina 1220",
+    "title": "Service kit Mina",
     "categories": [
       "kitchen"
     ],
@@ -416,7 +416,7 @@ let amazon = [
     "smallThumbnail": "https://olcha.uz/image/original/products/DE6hup9o0HegPMVyQLUf1uTo9wxHfW7wQqkZj4qz8n1mmS64we6sBFdHJxje.png",
   },
   {
-    "title": "TV Panasonic TX-49HXR900",
+    "title": "TV Panasonic",
     "categories": [
       "television"
     ],
@@ -428,7 +428,7 @@ let amazon = [
     "summary": "Купить Телевизор Panasonic TX-49HXR900 с доставкой по Ташкенте, Ташкентской области, Андижан, Бухара, Джизак, Кашкадарья, Навоий, Наманган, Самарканд, Сурхандарья, Сырдарья, Фергана, Хорезм, Каракалпакстан. В рассрочку без кредита в рассрочку - цены, отзывы, характеристики, каталог Телевизор Panasonic TX-49HXR900 на olcha.uz",
     "smallThumbnail": "https://olcha.uz/image/original/products/RlBdYK87RagPjneeeXJh5S2N9dDGX74q9W2pBrH35c2PGfsBZYtpKuoilEft.jpeg",
   },  {
-    "title": "TV Artel UA75H3502 Android TV",
+    "title": "TV Artel Android TV",
     "categories": [
       "television"
     ],
@@ -441,7 +441,7 @@ let amazon = [
     "smallThumbnail": "https://olcha.uz/image/original/products/72FcV0sswTxq9VoH0P7lH6jAcNEgINhGC5FvLtOPhPqbqEf1Op3gwfKjH02p.jpeg",
   },
   {
-    "title": "TV Premier 32PRM600S",
+    "title": "TV Premier",
     "categories": [
       "television"
     ],
@@ -454,7 +454,7 @@ let amazon = [
     "smallThumbnail": "https://olcha.uz/image/original/products/G3PrZP1buzMHcDaeaOe63fjt5Lyy09rOcyNJVw4Kq0ERy3O2JBLG0j8PZqbP.jpeg",
   },
   {
-    "title": "Acoustic system Meirende MR-103",
+    "title": "Acoustic system Meirende",
     "categories": [
       "television"
     ],
@@ -467,7 +467,7 @@ let amazon = [
     "smallThumbnail": "https://olcha.uz/image/original/products/7XEZ6dKpWu00uwcE0yVpPUtVPHMdAXNP9YOWEjNuUV587PhsVgrTBCFTzuTU.jpeg",
   },
   {
-    "title": "Music center Philips MCM2300/12",
+    "title": "Music center Philips",
     "categories": [
       "television"
     ],
@@ -493,7 +493,7 @@ let amazon = [
     "smallThumbnail": "https://olcha.uz/image/original/products/KlEQn8JD8lqjFEfvp8FmJJy2wU2Xsq4hK5no5GiGS9SLaM5VJ7jW0IWaHRzn.jpeg",
   },
   {
-    "title": "TV Samsung 75Q950T 8K",
+    "title": "TV Samsung",
     "categories": [
       "television"
     ],
@@ -506,7 +506,7 @@ let amazon = [
     "smallThumbnail": "https://olcha.uz/image/original/products/LHGbsVnxGehfv3q9nquRdgL2JFFIL78NZXgn0bHgUSmriWkAZ3DkFWv1ASmJ.jpeg",
   },
   {
-    "title": "Washing machine Samsung WW10T654CLX/LD",
+    "title": "Washing machine",
     "categories": [
       "washingmachin"
     ],
@@ -519,7 +519,7 @@ let amazon = [
     "smallThumbnail": "https://olcha.uz/image/original/products/EjDA0Oq0RETXlLGjc71cncwjpNrAxstEjkLsHdIjGkwwDE0b3MY1OODO5OCP.jpeg",
   },
   {
-    "title": "Washing machine Samsung WW60K40G09SDLD",
+    "title": "Washing machine",
     "categories": [
       "washingmachin"
     ],
@@ -532,7 +532,7 @@ let amazon = [
     "smallThumbnail": "https://olcha.uz/image/original/products/39DmF6IREakXPR9fXk73wVNmZumDyl6e94mnJfAZmverscaqYJvAv26G11Zv.jpeg",
   },
   {
-    "title": "Washing machine Samsung WD80T554CBX",
+    "title": "Washing machine",
     "categories": [
       "washingmachin"
     ],
@@ -545,7 +545,7 @@ let amazon = [
     "smallThumbnail": "https://olcha.uz/image/original/products/BnUKAioa1gGQXXn6mTwFeZ99T2GR8tu253njoMIVHep7Zh8Q0ek8OiA8PdJM.jpeg",
   },
   {
-    "title": "Nokia 3310 (2017), Blue",
+    "title": "Nokia 3310, Blue",
     "categories": [
       "phone"
     ],
@@ -558,7 +558,7 @@ let amazon = [
     "smallThumbnail": "https://olcha.uz/image/original/products/zAGiTiBwXiOZEafj9gdutTCARVQ4FX8N8Ba6FVRtmNGzPsxKrmePV41ey9sA.jpg",
   },
   {
-    "title": "Apple Iphone 13 Mini 512GB Midnight",
+    "title": "Apple Iphone 13 Mini 512GB",
     "categories": [
       "phone"
     ],
@@ -571,7 +571,7 @@ let amazon = [
     "smallThumbnail": "https://olcha.uz/image/original/products/UsyqYtIa8OK5FR3JjsXaWcZ8wy0RsVpR9XXixqBYZ7snOBY1a15w2PKEJvNG.jpeg",
   },
   {
-    "title": "Apple iPhone 13 Pro Max 256GB Dual Graphite",
+    "title": "Apple iPhone 13 Pro Max 256GB",
     "categories": [
       "phone"
     ],
@@ -584,7 +584,7 @@ let amazon = [
     "smallThumbnail": "https://olcha.uz/image/original/products/sFKzEB02qyuCxSaQikaoke4w0g6hy45KpA7s8AMeOK2idRPRjbRFhHlvLKk5.jpeg",
   },
   {
-    "title": "Samsung Galaxy Z Flip3 5G 8/256GB",
+    "title": "Samsung Galaxy 5G 8/256GB",
     "categories": [
       "phone"
     ],
@@ -597,7 +597,7 @@ let amazon = [
     "smallThumbnail": "https://olcha.uz/image/original/products/IZ2r5myCTdCRfQNqWTaiWrOUirJ8kBeAGaKbV0SxnRm05rUKnCfcrKAen9IC.jpeg",
   },
   {
-    "title": "Dell Pro Briefcase 15.6 Laptop Bag",
+    "title": "Dell Pro Briefcase Laptop Bag",
     "categories": [
       "bag"
     ],
