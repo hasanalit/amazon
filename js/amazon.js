@@ -1,6 +1,6 @@
 let amazon = [
   {
-    "title": "Радар-детектор Inspector Spirit Air",
+    "title": "Radar detector Inspector Spirit Air",
     "categories": [
       "Automtive"
     ],
@@ -8,12 +8,12 @@ let amazon = [
     "imdbRating": "⭐️⭐️⭐️⭐️⭐️",
     "price": 125.8,
     "garantiya": "Гарантийный срок (месяц): 12",
-    "saralash": "Коротко о товаре",
+    "saralash": "Briefly about the product",
     "summary": "Купить Радар-детектор Inspector Spirit Air с доставкой по Ташкенте, Ташкентской области, Андижан, Бухара, Джизак, Кашкадарья, Навоий, Наманган, Самарканд, Сурхандарья, Сырдарья, Фергана, Хорезм, Каракалпакстан. В рассрочку без кредита в рассрочку - цены, отзывы, характеристики, каталог Радар-детектор Inspector Spirit Air на olcha.uz",
     "smallThumbnail": "https://olcha.uz/image/original/products/HRccowyQutz18Kl0BqIkzEOnbuR290J3PXWBxZrLGdhbwlkW3PhAD16hFEKv.jpeg",
   },
   {
-    "title": "Радар-детектор Magma R5",
+    "title": "Radar detector Magma R5",
     "categories": [
       "Automtive"
     ],
@@ -26,7 +26,7 @@ let amazon = [
     "smallThumbnail": "https://olcha.uz/image/original/products/59SGFbBorJoENWwQgLYJSbbpedPRL4tafQhQtAxEoEf8KAkNZ7R3uCpZb1xc.jpeg",
   },
   {
-    "title": "Видеорегистратор iFound Q66S",
+    "title": "DVR iFound Q66S",
     "categories": [
       "Automtive"
     ],
@@ -34,12 +34,12 @@ let amazon = [
     "imdbRating": "⭐️⭐️⭐️⭐️⭐️",
     "price": 90.8,
     "garantiya": "Гарантийный срок (месяц): 1",
-    "saralash": "Коротко о товаре",
+    "saralash": "Briefly about the product",
     "summary": "Купить Видеорегистратор iFound Q66S с доставкой по Ташкенте, Ташкентской области, Андижан, Бухара, Джизак, Кашкадарья, Навоий, Наманган, Самарканд, Сурхандарья, Сырдарья, Фергана, Хорезм, Каракалпакстан. В рассрочку без кредита в рассрочку - цены, отзывы, характеристики, каталог Видеорегистратор iFound Q66S на olcha.uz",
     "smallThumbnail": "https://olcha.uz/image/original/products/TgR8dlUIWVhC3Ofg6lcGdHEaQph3n6NRYuqaENprsJaR6WLQCQrfQ2CDKjAp.jpeg",
   },
   {
-    "title": "Видеорегистратор iFound V88",
+    "title": "DVR iFound V88",
     "categories": [
       "Automtive"
     ],
@@ -47,12 +47,12 @@ let amazon = [
     "imdbRating": "⭐️⭐️⭐️",
     "price": 85.9,
     "garantiya": "Гарантийный срок (месяц): 3",
-    "saralash": "Коротко о товаре",
+    "saralash": "Briefly about the product",
     "summary": "Купить Видеорегистратор iFound V88 с доставкой по Ташкенте, Ташкентской области, Андижан, Бухара, Джизак, Кашкадарья, Навоий, Наманган, Самарканд, Сурхандарья, Сырдарья, Фергана, Хорезм, Каракалпакстан. В рассрочку без кредита в рассрочку - цены, отзывы, характеристики, каталог Видеорегистратор iFound V88 на olcha.uz",
     "smallThumbnail": "https://olcha.uz/image/original/products/VSslansEXSdhJDF07HgBE10EOWTgUcZ0xLVcYnO3PSVRxvCJdZTOuyCaNmTP.jpeg",
   },
   {
-    "title": "Диски для автомобиля NewStyling 005 R17 (4шт)",
+    "title": "Rims for car NewStyling 005 R17 (4pcs)",
     "categories": [
       "Automtive"
     ],
@@ -60,12 +60,12 @@ let amazon = [
     "imdbRating": "⭐️⭐️⭐️⭐️⭐️",
     "price": 429.9,
     "garantiya": "Гарантийный срок (месяц): 1",
-    "saralash": "Коротко о товаре",
+    "saralash": "Briefly about the product",
     "summary": "Купить Диски для автомобиля NewStyling 005 R17 (4шт) с доставкой по Ташкенте, Ташкентской области, Андижан, Бухара, Джизак, Кашкадарья, Навоий, Наманган, Самарканд, Сурхандарья, Сырдарья, Фергана, Хорезм, Каракалпакстан. В рассрочку без кредита в рассрочку - цены, отзывы, характеристики, каталог Диски для автомобиля NewStyling 005 R17 (4шт) на olcha.uz",
     "smallThumbnail": "https://olcha.uz/image/original/products/yXPmV9kqHC8lZLTP9Xxy3oPjcfrN0dmNgg5K0VCfvMcJBjHMnmJYYbMDx6LP.jpeg",
   },
   {
-    "title": "Диска для автомобиля NewStyle 003 R15 4шт",
+    "title": "Disc for car NewStyle 003 R15 4pcs",
     "categories": [
       "Automtive"
     ],
@@ -73,12 +73,12 @@ let amazon = [
     "imdbRating": "⭐️⭐️⭐️⭐️",
     "price": 327.9,
     "garantiya": "Гарантийный срок (месяц): 2",
-    "saralash": "Коротко о товаре",
+    "saralash": "Briefly about the product",
     "summary": "Купить Диска для автомобиля NewStyle 003 R15 4шт с доставкой по Ташкенте, Ташкентской области, Андижан, Бухара, Джизак, Кашкадарья, Навоий, Наманган, Самарканд, Сурхандарья, Сырдарья, Фергана, Хорезм, Каракалпакстан. В рассрочку без кредита в рассрочку - цены, отзывы, характеристики, каталог Диска для автомобиля NewStyle 003 R15 4шт на olcha.uz",
     "smallThumbnail": "https://olcha.uz/image/original/products/aQR8xaNgvM6hqqzNhoQbgDEf872hqPz0ufNyxYOneRxn7kkywoPsJSoIcSsh.jpeg",
   },
   {
-    "title": "Диска для автомобиля Chevrolet Redline 15",
+    "title": "Disc for Chevrolet Redline 15",
     "categories": [
       "Automtive"
     ],
@@ -86,12 +86,12 @@ let amazon = [
     "imdbRating": "⭐️⭐️⭐️⭐️⭐️",
     "price": 342.5,
     "garantiya": "Гарантийный срок (месяц):1",
-    "saralash": "Коротко о товаре",
+    "saralash": "Briefly about the product",
     "summary": "Купить Видеорегистратор iFound V88 с доставкой по Ташкенте, Ташкентской области, Андижан, Бухара, Джизак, Кашкадарья. В рассрочку без кредита в рассрочку - цены, отзывы, характеристики, каталог Видеорегистратор iFound V88 на olcha.uz",
     "smallThumbnail": "https://olcha.uz/image/original/products/tpUqCeWfQu1AkcScT8HZhBcKAMeFDHFIICuhixkHZsEgf9CLgeshNOzuSDAD.jpeg",
   },
   {
-    "title": "Руль Mercedes Tiptronic (анатомия)",
+    "title": "Steering wheel Mercedes Tiptronic (anatomy)",
     "categories": [
       "Automtive"
     ],
@@ -99,12 +99,12 @@ let amazon = [
     "imdbRating": "⭐️⭐️⭐️⭐️",
     "price": 107.6,
     "garantiya": "Гарантийный срок (месяц): 5",
-    "saralash": "Коротко о товаре",
+    "saralash": "Briefly about the product",
     "summary": "Купить Руль Mercedes Tiptronic (анатомия) с доставкой по Ташкенте, Ташкентской области, Андижан, Бухара, Джизак, Кашкадарья, Навоий, Наманган, Самарканд, Сурхандарья, Сырдарья, Фергана, Хорезм, Каракалпакстан. В рассрочку без кредита в рассрочку - цены, отзывы, характеристики, каталог Руль Mercedes Tiptronic (анатомия) на olcha.uz",
     "smallThumbnail": "https://olcha.uz/image/original/products/lh4aH0Wl6N2yJgBAyTtxwgy3lX9oMRTSbHwJw8TKaAGZ5vPAkyvlKfLFHEDi.jpeg",
   },
   {
-    "title": "Руль Cadillac Tiptronic (анатомия)",
+    "title": "Steering wheel Cadillac Tiptronic (anatomy)",
     "categories": [
       "Automtive"
     ],
@@ -112,12 +112,12 @@ let amazon = [
     "imdbRating": "⭐️⭐️⭐️",
     "price": 207.9,
     "garantiya": "Гарантийный срок (месяц): 1",
-    "saralash": "Коротко о товаре",
+    "saralash": "Briefly about the product",
     "summary": "Купить Руль Cadillac Tiptronic (анатомия) с доставкой по Ташкенте, Ташкентской области, Андижан, Бухара, Джизак, Кашкадарья, Навоий, Наманган, Самарканд, Сурхандарья, Сырдарья, Фергана, Хорезм, Каракалпакстан. В рассрочку без кредита в рассрочку - цены, отзывы, характеристики, каталог Руль Cadillac Tiptronic (анатомия) на olcha.uz",
     "smallThumbnail": "https://olcha.uz/image/original/products/uUcQIogo3PgvRfiYqh1en3KfhGfOZJA1VjIYmynzbSHE4XXvnJWmRUsf5a02.jpeg",
   },
   {
-    "title": "Руль Hyundai Anatomy Tiptronic (анатомия)",
+    "title": "Steering wheel Hyundai Anatomy Tiptronic (anatomy)",
     "categories": [
       "Automtive"
     ],
@@ -125,12 +125,12 @@ let amazon = [
     "imdbRating": "⭐️⭐️⭐️⭐️⭐️",
     "price": 240.9,
     "garantiya": "Гарантийный срок (месяц): 7",
-    "saralash": "Коротко о товаре",
+    "saralash": "Briefly about the product",
     "summary": "Купить Руль Hyundai Anatomy Tiptronic (анатомия) с доставкой по Ташкенте, Ташкентской области, Андижан, Бухара, Джизак, Кашкадарья, Навоий, Наманган, Самарканд, Сурхандарья, Сырдарья, Фергана, Хорезм, Каракалпакстан. В рассрочку без кредита в рассрочку - цены, отзывы, характеристики, каталог Руль Hyundai Anatomy Tiptronic (анатомия) на olcha.uz",
     "smallThumbnail": "https://olcha.uz/image/original/products/cHdEVpeKWn1W4ccOLL2daJGm1X9OEOKZ9s9aIvzT52YCdh7wMq6cp4sRGVlB.jpeg",
   },
   {
-    "title": "Авточехлы Cardinar Turk-2 Silver Cobalt",
+    "title": "Car seat covers Cardinar Turk-2 Silver Cobalt",
     "categories": [
       "Automtive"
     ],
@@ -138,12 +138,12 @@ let amazon = [
     "imdbRating": "⭐️⭐️⭐️",
     "price": 70.9,
     "garantiya": "Гарантийный срок (месяц): 2",
-    "saralash": "Коротко о товаре",
+    "saralash": "Briefly about the product",
     "summary": "Купить Авточехлы Cardinar Turk-2 Silver Cobalt с доставкой по Ташкенте, Ташкентской области, Андижан, Бухара, Джизак, Кашкадарья, Навоий, Наманган, Самарканд, Сурхандарья, Сырдарья, Фергана, Хорезм, Каракалпакстан. В рассрочку без кредита в рассрочку - цены, отзывы, характеристики, каталог Авточехлы Cardinar Turk-2 Silver Cobalt на olcha.uz",
     "smallThumbnail": "https://olcha.uz/image/original/products/j3SxkCQXpTM9mFSdqtHQqZ05hbhH1jCJ0wTdqp5TA94toQSRlLGWrXM51Ht7.jpeg",
   },
   {
-    "title": "Авточехлы Cardinar Turk-1 Silver Lacetti-3",
+    "title": "Авточехлы CaCar seat covers Cardinar Turk-1 Silver Lacetti-3rdinar Turk-1 Silver Lacetti-3",
     "categories": [
       "Automtive"
     ],
@@ -151,12 +151,12 @@ let amazon = [
     "imdbRating": "⭐️⭐️⭐️⭐️⭐️",
     "price": 68.9,
     "garantiya": "Гарантийный срок (месяц): 1",
-    "saralash": "Коротко о товаре",
+    "saralash": "Briefly about the product",
     "summary": "Купить Авточехлы Cardinar Turk-1 Silver Lacetti-3 с доставкой по Ташкенте, Ташкентской области, Андижан, Бухара, Джизак, Кашкадарья, Навоий, Наманган, Самарканд, Сурхандарья, Сырдарья, Фергана, Хорезм, Каракалпакстан. В рассрочку без кредита в рассрочку - цены, отзывы, характеристики, каталог Авточехлы Cardinar Turk-1 Silver Lacetti-3 на olcha.uz",
     "smallThumbnail": "https://olcha.uz/image/original/products/xoxJaqJBtYpIvLoyf5PwrRvDmjS35DNmGk6mpbHDu2NrAZoZ7D4Eb3g7OQrW.jpeg",
   },
   {
-    "title": "Автомагнитола 2 DIN Sony DSX-B700",
+    "title": "Car radio 2 DIN Sony DSX-B700",
     "categories": [
       "Automtive"
     ],
@@ -164,12 +164,12 @@ let amazon = [
     "imdbRating": "⭐️⭐️⭐️⭐️⭐️",
     "price": 123.3,
     "garantiya": "Гарантийный срок (месяц): 2",
-    "saralash": "Коротко о товаре",
+    "saralash": "Briefly about the product",
     "summary": "Купить Автомагнитола 2 DIN Sony DSX-B700 с доставкой по Ташкенте, Ташкентской области, Андижан, Бухара, Джизак, Кашкадарья, Навоий, Наманган, Самарканд, Сурхандарья, Сырдарья, Фергана, Хорезм, Каракалпакстан. В рассрочку без кредита в рассрочку - цены, отзывы, характеристики, каталог Автомагнитола 2 DIN Sony DSX-B700 на olcha.uz",
     "smallThumbnail": "https://olcha.uz/image/original/products/zF5weG2kdAEPMSLuUViNHodgJDu3xkuucJNBgU9BtMYsUv8qjlygfvleNr47.jpeg",
   },
   {
-    "title": "Автомагнитола Sony CDX-G1200U",
+    "title": "Car radio Sony CDX-G1200U",
     "categories": [
       "Automtive"
     ],
@@ -182,7 +182,7 @@ let amazon = [
     "smallThumbnail": "https://olcha.uz/image/original/products/8ar4x4xzShdFNUCL9TLtNrfIErP7M0AmPbyEkdPJdPNcOceBB0v3z2s6ql1r.jpeg",
   },
   {
-    "title": "Задние фонари Chevrolet Cobalt, красные",
+    "title": "Rear lights Chevrolet Cobalt, red",
     "categories": [
       "Automtive"
     ],
@@ -195,7 +195,7 @@ let amazon = [
     "smallThumbnail": "https://olcha.uz/image/original/products/xgYLTrJAXlYoh3ALurfzeG2yEyK9DR3ew1QYS9AusHop6xuTfD2urjD0VEex.jpeg",
   },
   {
-    "title": "Передние фары Lacetti Gentra американка",
+    "title": "Headlights Lacetti Gentra American",
     "categories": [
       "Automtive"
     ],
@@ -208,7 +208,7 @@ let amazon = [
     "smallThumbnail": "https://olcha.uz/image/original/products/7vR8au4OmHMnLMG3ynRvOSZXFXVAFYfdqYJ4WHSYcqe3QT4zc86kvPs0MfIM.jpeg",
   },
   {
-    "title": "Бар-подлокотник Malibu 2",
+    "title": "Bar armrest Malibu 2",
     "categories": [
       "Automtive"
     ],
@@ -221,7 +221,7 @@ let amazon = [
     "smallThumbnail": "https://olcha.uz/image/original/products/ytoRPDBDJEwvY1j03xWe3TFc3shN1etTgdaCulCfcjWHFQGMPZS5c6ixCwyo.jpeg",
   },
   {
-    "title": "Комплект для мальчиков/ для девочек O'zbebek OZBSPKA02",
+    "title": "Set for boys/girls O'zbebek OZBSPKA02",
     "categories": [
       "baby"
     ],
@@ -234,7 +234,7 @@ let amazon = [
     "smallThumbnail": "https://olcha.uz/image/original/products/Dpc13bDtonrYGwSpgekLRMOD3ctpz2miLHrHiSCn9xcm7rhcX5bsFYkdgAmf.jpeg",
   },
   {
-    "title": "Платье для девочек O'zbebek OZB00-50",
+    "title": "Dress for girls O'zbebek OZB00-50",
     "categories": [
       "baby"
     ],
@@ -247,7 +247,7 @@ let amazon = [
     "smallThumbnail": "https://olcha.uz/image/original/products/Fx4oLnWjboAvDP5QWCCCGWKjqQNClDoAGbjTzlqMMzwQw2F4ArQoU67gMILY.jpeg",
   },
   {
-    "title": "Комбинезон для новорожденных (девочка) O'zbebek OZBDY02",
+    "title": "Overalls for newborns (girl) O'zbebek OZBDY02",
     "categories": [
       "baby"
     ],
@@ -260,7 +260,7 @@ let amazon = [
     "smallThumbnail": "https://olcha.uz/image/original/products/XLe4uu05ibRY2g4vUlZiCnEbfpVvHnu59atb4aGvXVv2khcxgM3WrS7fdk6q.jpeg",
   },
   {
-    "title": "Джемпер для новорожденных ( Девочка) O'zbebek A22-02-0003",
+    "title": "Jumper for newborns (Girl) O'zbebek A22-02-0003",
     "categories": [
       "baby"
     ],
@@ -273,7 +273,7 @@ let amazon = [
     "smallThumbnail": "https://olcha.uz/image/original/products/uXwzoN99QDmLNn7McwrjIqJ5V1OjLEtDAI4mriLujXF8vfitTNuc6EifhZzs.jpeg",
   },
   {
-    "title": "Пижама для мальчиков O'zbebek OZBPJM001",
+    "title": "Pajamas for boys O'zbebek OZBPJM001",
     "categories": [
       "baby"
     ],
@@ -286,7 +286,7 @@ let amazon = [
     "smallThumbnail": "https://olcha.uz/image/original/products/SUK1t7CYbDF6kG0EkctWW8zI7EaWaO9framcsGf1Jzq7xXRNQplCsCAOHmCm.jpeg",
   },
   {
-    "title": "Выпрямитель Maxwell MW-2218",
+    "title": "Rectifier Maxwell MW-2218",
     "categories": [
       "beauty"
     ],
@@ -299,7 +299,7 @@ let amazon = [
     "smallThumbnail": "https://olcha.uz/image/original/products/vhxf5dbdcSPXoMxRJZkva8oRmRYjFRZM4z2QExqljyfG3HF317CHKi6lmJwh.jpeg",
   },
   {
-    "title": "Фен Philips HP8656/00",
+    "title": "Hair dryer Philips HP8656/00",
     "categories": [
       "beauty"
     ],
@@ -312,7 +312,7 @@ let amazon = [
     "smallThumbnail": "https://olcha.uz/image/original/products/fZgBgdS4nptn2Aig9s3VKIdNG0p3z6yt7bySjTKgRWgxADXVomYTPvhrpvke.jpg",
   },
   {
-    "title": "Фен Philips HP8661/00",
+    "title": "Hair dryer Philips HP8661/00",
     "categories": [
       "beauty"
     ],
@@ -325,7 +325,7 @@ let amazon = [
     "smallThumbnail": "https://olcha.uz/image/original/products/d8v86AU5SxwAND0hTW2Nb0OBsCh8DjXbY5sdqXhEJcLi1oiG9Xt2Ldwz5k8x.jpg",
   },
   {
-    "title": "Фен Polaris PHD 2245Ti",
+    "title": "Hair dryer Polaris PHD 2245Ti",
     "categories": [
       "beauty"
     ],
@@ -351,7 +351,7 @@ let amazon = [
     "smallThumbnail": "https://olcha.uz/image/original/products/7ljWG4wsRwyf9slca15Ox8DY076g3t8YcQb9xkRnoeqs7h2KcGi175koDhgH.jpeg",
   },
   {
-    "title": "Миска из нержавеющей стали с крышкой Fissman 1,5л 5114",
+    "title": "Stainless steel bowl with lid Fissman 1.5l 5114",
     "categories": [
       "kitchen"
     ],
@@ -364,7 +364,7 @@ let amazon = [
     "smallThumbnail": "https://olcha.uz/image/original/products/OaWD31SBCcc222TduUt0qfO4pv4vHCAJ43sWO7Q8935VXOOVUNlxhW85g9N2.jpeg",
   },
   {
-    "title": "Набор казанов из 5 предметов Uaken 121121",
+    "title": "5-piece cauldron set Uaken 121121",
     "categories": [
       "kitchen"
     ],
@@ -377,7 +377,7 @@ let amazon = [
     "smallThumbnail": "https://olcha.uz/image/original/products/InAcmMmU4I8RyjIOl6DS7rbjj7nHgfVrbK9kJ5zS5oqwwokIjxGYKY7tUS0d.png",
   },
   {
-    "title": "Казан для плова Мечта «Гранит»",
+    "title": "Kazan for pilaf Dream Granite",
     "categories": [
       "kitchen"
     ],
@@ -390,7 +390,7 @@ let amazon = [
     "smallThumbnail": "https://olcha.uz/image/original/products/KttZoZtl9RDbM0AXtufPZkCMYmpDX4IotwbXXnZKd3ngO8Jy24dfa3F9lz6E.jpeg",
   },
   {
-    "title": "Сковорода-Бриллиант несъемная Мечта",
+    "title": "Frying pan-Brilliant non-removable Dream",
     "categories": [
       "kitchen"
     ],
@@ -403,7 +403,7 @@ let amazon = [
     "smallThumbnail": "https://olcha.uz/image/original/products/8hRjc5rUasf46CakNN8XXqCkpjvJciayG7hKyndCscOS0Vy87R8UqhxnVEXA.jpeg",
   },
   {
-    "title": "Набор сервиса Mina 1220",
+    "title": "Service kit Mina 1220",
     "categories": [
       "kitchen"
     ],
@@ -416,7 +416,7 @@ let amazon = [
     "smallThumbnail": "https://olcha.uz/image/original/products/DE6hup9o0HegPMVyQLUf1uTo9wxHfW7wQqkZj4qz8n1mmS64we6sBFdHJxje.png",
   },
   {
-    "title": "Телевизор Panasonic TX-49HXR900",
+    "title": "TV Panasonic TX-49HXR900",
     "categories": [
       "television"
     ],
@@ -428,7 +428,7 @@ let amazon = [
     "summary": "Купить Телевизор Panasonic TX-49HXR900 с доставкой по Ташкенте, Ташкентской области, Андижан, Бухара, Джизак, Кашкадарья, Навоий, Наманган, Самарканд, Сурхандарья, Сырдарья, Фергана, Хорезм, Каракалпакстан. В рассрочку без кредита в рассрочку - цены, отзывы, характеристики, каталог Телевизор Panasonic TX-49HXR900 на olcha.uz",
     "smallThumbnail": "https://olcha.uz/image/original/products/RlBdYK87RagPjneeeXJh5S2N9dDGX74q9W2pBrH35c2PGfsBZYtpKuoilEft.jpeg",
   },  {
-    "title": "Телевизор Artel UA75H3502 Android TV",
+    "title": "TV Artel UA75H3502 Android TV",
     "categories": [
       "television"
     ],
@@ -441,7 +441,7 @@ let amazon = [
     "smallThumbnail": "https://olcha.uz/image/original/products/72FcV0sswTxq9VoH0P7lH6jAcNEgINhGC5FvLtOPhPqbqEf1Op3gwfKjH02p.jpeg",
   },
   {
-    "title": "Телевизор Premier 32PRM600S",
+    "title": "TV Premier 32PRM600S",
     "categories": [
       "television"
     ],
@@ -454,7 +454,7 @@ let amazon = [
     "smallThumbnail": "https://olcha.uz/image/original/products/G3PrZP1buzMHcDaeaOe63fjt5Lyy09rOcyNJVw4Kq0ERy3O2JBLG0j8PZqbP.jpeg",
   },
   {
-    "title": "Акустическая система Meirende MR-103",
+    "title": "Acoustic system Meirende MR-103",
     "categories": [
       "television"
     ],
@@ -467,7 +467,7 @@ let amazon = [
     "smallThumbnail": "https://olcha.uz/image/original/products/7XEZ6dKpWu00uwcE0yVpPUtVPHMdAXNP9YOWEjNuUV587PhsVgrTBCFTzuTU.jpeg",
   },
   {
-    "title": "Музыкальный центр Philips MCM2300/12",
+    "title": "Music center Philips MCM2300/12",
     "categories": [
       "television"
     ],
@@ -493,7 +493,7 @@ let amazon = [
     "smallThumbnail": "https://olcha.uz/image/original/products/KlEQn8JD8lqjFEfvp8FmJJy2wU2Xsq4hK5no5GiGS9SLaM5VJ7jW0IWaHRzn.jpeg",
   },
   {
-    "title": "Телевизор Samsung 75Q950T 8K",
+    "title": "TV Samsung 75Q950T 8K",
     "categories": [
       "television"
     ],
@@ -506,7 +506,7 @@ let amazon = [
     "smallThumbnail": "https://olcha.uz/image/original/products/LHGbsVnxGehfv3q9nquRdgL2JFFIL78NZXgn0bHgUSmriWkAZ3DkFWv1ASmJ.jpeg",
   },
   {
-    "title": "Стиральная машина Samsung WW10T654CLX/LD",
+    "title": "Washing machine Samsung WW10T654CLX/LD",
     "categories": [
       "washingmachin"
     ],
@@ -519,7 +519,7 @@ let amazon = [
     "smallThumbnail": "https://olcha.uz/image/original/products/EjDA0Oq0RETXlLGjc71cncwjpNrAxstEjkLsHdIjGkwwDE0b3MY1OODO5OCP.jpeg",
   },
   {
-    "title": "Стиральная машина Samsung WW60K40G09SDLD",
+    "title": "Washing machine Samsung WW60K40G09SDLD",
     "categories": [
       "washingmachin"
     ],
@@ -532,7 +532,7 @@ let amazon = [
     "smallThumbnail": "https://olcha.uz/image/original/products/39DmF6IREakXPR9fXk73wVNmZumDyl6e94mnJfAZmverscaqYJvAv26G11Zv.jpeg",
   },
   {
-    "title": "Стиральная машина Samsung WD80T554CBX",
+    "title": "Washing machine Samsung WD80T554CBX",
     "categories": [
       "washingmachin"
     ],
@@ -597,7 +597,7 @@ let amazon = [
     "smallThumbnail": "https://olcha.uz/image/original/products/IZ2r5myCTdCRfQNqWTaiWrOUirJ8kBeAGaKbV0SxnRm05rUKnCfcrKAen9IC.jpeg",
   },
   {
-    "title": "Сумка для ноутбука Dell Pro Briefcase 15,6",
+    "title": "Dell Pro Briefcase 15.6 Laptop Bag",
     "categories": [
       "bag"
     ],
@@ -610,7 +610,7 @@ let amazon = [
     "smallThumbnail": "https://olcha.uz/image/original/products/03fN5Kid1lMaTlkalNPZ2tmVF45njrSI3ZfXP9xKoJOQJkpgQEm016WmBKiY.jpeg",
   },
   {
-    "title": "Уникальная сумка-рюкзак для мамы",
+    "title": "Unique backpack for mom",
     "categories": [
       "bag"
     ],
