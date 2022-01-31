@@ -1,5 +1,18 @@
 let amazon = [
   {
+    "title": "Apple Iphone 13 Mini 512GB",
+    "categories": [
+      "phone"
+    ],
+    "id": "44",
+    "imdbRating": "⭐️⭐️⭐️⭐️",
+    "price": 1100.9,
+    "garantiya": "Гарантийный срок (месяц): 2",
+    "saralash": "Briefly about the product",
+    "summary": "Купить Apple Iphone 13 Mini 512GB Midnight с доставкой по Ташкенте, Ташкентской области, Андижан, Бухара, Джизак, Кашкадарья, Навоий, Наманган, Самарканд, Сурхандарья, Сырдарья, Фергана, Хорезм, Каракалпакстан. В рассрочку без кредита в рассрочку - цены, отзывы, характеристики, каталог Apple Iphone 13 Mini 512GB Midnight на olcha.uz",
+    "smallThumbnail": "https://olcha.uz/image/original/products/UsyqYtIa8OK5FR3JjsXaWcZ8wy0RsVpR9XXixqBYZ7snOBY1a15w2PKEJvNG.jpeg",
+  },
+  {
     "title": "Radar detector Inspector Air",
     "categories": [
       "Automtive"
@@ -338,7 +351,7 @@ let amazon = [
     "smallThumbnail": "https://olcha.uz/image/original/products/WyeLK1bsXotLP7M4cKWZ1fxqWwF9Q0kClIlWQ3UFSK0gIOOS4gTcbSFCimDX.jpg",
   },
   {
-    "title": "Hugo Woman Extreme Hugo Boss",
+    "title": "Hugo Woman Extreme Hugoo",
     "categories": [
       "beauty"
     ],
@@ -390,7 +403,7 @@ let amazon = [
     "smallThumbnail": "https://olcha.uz/image/original/products/KttZoZtl9RDbM0AXtufPZkCMYmpDX4IotwbXXnZKd3ngO8Jy24dfa3F9lz6E.jpeg",
   },
   {
-    "title": "Frying pan-Brilliant non-removable",
+    "title": "Frying pan-Brilliant",
     "categories": [
       "kitchen"
     ],
@@ -621,19 +634,6 @@ let amazon = [
     "saralash": "Briefly about the product",
     "summary": "Купить Уникальная сумка-рюкзак для мамы, Silver с доставкой по Ташкенте, Ташкентской области, Андижан, Бухара, Джизак, Кашкадарья, Навоий, Наманган, Самарканд, Сурхандарья, Сырдарья, Фергана, Хорезм, Каракалпакстан. В рассрочку без кредита в рассрочку - цены, отзывы, характеристики, каталог Уникальная сумка-рюкзак для мамы, Silver на olcha.uz",
     "smallThumbnail": "https://olcha.uz/image/original/products/kTx2iXDawAh3DEmVSEVneDBq6xVQMaPE3mxLloW0SNqJG0NRTL3AsKX70yDv.jpeg",
-  },
-  {
-    "title": "Palto",
-    "categories": [
-      "wear"
-    ],
-    "id": "49",
-    "imdbRating": "⭐️⭐️",
-    "price": 71,
-    "garantiya": "Гарантийный срок (месяц): 1",
-    "saralash": "Briefly about the product",
-    "summary": "Купить Уникальная сумка-рюкзак для мамы, Silver с доставкой по Ташкенте, Ташкентской области, Андижан, Бухара, Джизак, Кашкадарья, Навоий, Наманган, Самарканд, Сурхандарья, Сырдарья, Фергана, Хорезм, Каракалпакстан. В рассрочку без кредита в рассрочку - цены, отзывы, характеристики, каталог Уникальная сумка-рюкзак для мамы, Silver на olcha.uz",
-    "smallThumbnail": "https://zoodmall.com/cdn-cgi/image/w=500,fit=contain,f=auto/https://upload.zoodmall.com/web/product/picture/31/18330131/163654710978948000203.jpeg",
   },
   {
     "title": "Bryuk",
