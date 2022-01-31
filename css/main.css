@@ -88,7 +88,21 @@ body{
       align-items: center;
   }
 
+  .hero-left-section {
+      margin-right: 176px;
+      width: 100%;
+      max-width: 444px;
+  }
+
+  .hero-img {
+      width: 100%;
+      max-width: 417px;
+  }
+
   .name-desc {
+    margin: 0;
+    margin-bottom: 16px;
+    text-align: left;
     font-family: Roboto;
     font-style: normal;
     font-weight: 500;
@@ -98,13 +112,28 @@ body{
   }
 
   .name-main-desc {
+    margin: 0;
+    margin-bottom: 16px;
+    text-align: left;
     font-family: Poppins;
-    width: 444px;
     font-style: normal;
     font-weight: 400;
     font-size: 48px;
     line-height: 58px;
     color: #000000;
+  }
+
+  .info-desc {
+      display: flex;
+      align-items: flex-start;
+      flex-direction: column;
+      margin: 0;
+      margin-bottom: 16px;
+      text-align: left;
+      font-family: Roboto;
+      font-size: 12px;
+      line-height: 20px;
+      color: rgba(35, 47, 62, 0.48);
   }
 
 
