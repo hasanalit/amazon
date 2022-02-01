@@ -179,8 +179,10 @@ body{
 
   .hero-info {
     position: absolute;
+    left: 25%;
+    transform: translate(-50%, -50%);
     z-index: 10;
-    padding: 10px;
+    padding: 20px;
     top: 60px;
     background-color: #000;
     border-radius: 10px;
@@ -209,6 +211,74 @@ body{
   .hidden-overlay {
     /* display: none; */
     transform: translateY(-100vh);
+  }
+
+  .close-btn {
+      position: absolute;
+      left: 95%;
+      color: #fff;
+  }
+
+  .learn-info-hero-heading {
+      display: flex;
+      margin-top: auto;
+      margin-left: 20px;
+      flex-direction: column;
+  }
+
+  .learn-hero-heading {
+      margin: 0;
+      margin-bottom: 8px;
+      color: #fff;
+  }
+
+  .learn-info-images-section {
+    position: relative;
+    width: 100%;
+    max-width: 400px;
+    height: 400px;
+    overflow: hidden;
+    background-color: #fff;
+    border-radius: 15px;
+  }
+
+  .learn-info-images {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 75%;
+    height: 75%;
+    /* object-fit: cover; */
+    transition: 0.5s ease;
+  }
+
+  .learn-info-images:hover {
+    transform: translate(-50%, -50%) scale(1.3);
+  }
+
+
+  .learn-info-price {
+      margin: 0;
+      margin-bottom: 8px;
+      color: #fff;
+  }
+
+  .learn-info-rating {
+      margin: 0;
+      margin-bottom: 8px;
+  }
+
+  .learn-info-desc {
+      margin: 0;
+      margin-top: 10px;
+      color: #fff;
+      width: 100%;
+      max-width: 800px;
+  }
+
+  .learn-hero-section {
+      display: flex;
   }
 
 

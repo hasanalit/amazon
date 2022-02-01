@@ -59,26 +59,49 @@ const renderSwip = function(arr, element, elLearnInfoBtn){
               elOverlay.classList.remove('hidden-overlay')
               elInfo.innerHTML = null
 
+              // let learnInfoText = "Price"
 
               let newLearnHeroSection = document.createElement('div')
               let newLearnCloseBtn = document.createElement('i')
+              let newLearnInfoSection = document.createElement('div')
+              let newLearnInfoImgSection = document.createElement('div')
+              let newLearnInfoImg = document.createElement('img')
               let newLearnHeroHeading = document.createElement('h5')
+              let newLearnInfoRating = document.createElement('p')
+              let newLearnInfoPrice = document.createElement('p')
+              let newLearnInfoDesc = document.createElement('p')
 
               newLearnHeroSection.setAttribute('class', 'learn-hero-section')
-              newLearnCloseBtn.setAttribute('class', 'close-btn')
               newLearnCloseBtn.setAttribute('class', 'close-btn fas fa-times')
+              newLearnInfoSection.setAttribute('class', 'learn-info-hero-heading')
+              newLearnInfoImgSection.setAttribute('class', 'learn-info-images-section')
+              newLearnInfoImg.setAttribute('class', 'learn-info-images')
+              newLearnInfoImg.setAttribute('src', amazon.smallThumbnail)
               newLearnHeroHeading.setAttribute('class', 'learn-hero-heading')
+              newLearnInfoRating.setAttribute('class', 'learn-info-rating')
+              newLearnInfoPrice.setAttribute('class', 'learn-info-price')
+              newLearnInfoDesc.setAttribute('class', 'learn-info-desc')
 
               newLearnHeroHeading.textContent = amazon.title
+              newLearnInfoRating.textContent = amazon.imdbRating
+              newLearnInfoPrice.textContent = `Price ${amazon.price}$`
+              newLearnInfoDesc.textContent = amazon.summary
 
               newLearnCloseBtn.addEventListener('click', function(){
                 elOverlay.classList.add('hidden-overlay')
                 elInfo.classList.add('hidden')
             })
 
-            elLearnInfoBtn.appendChild(newLearnCloseBtn)
+
+              elLearnInfoBtn.appendChild(newLearnCloseBtn)
               elLearnInfoBtn.appendChild(newLearnHeroSection)
-              newLearnHeroSection.appendChild(newLearnHeroHeading)
+              newLearnHeroSection.appendChild(newLearnInfoImgSection)
+              newLearnInfoImgSection.appendChild(newLearnInfoImg)
+              newLearnHeroSection.appendChild(newLearnInfoSection)
+              newLearnInfoSection.appendChild(newLearnHeroHeading)
+              newLearnInfoSection.appendChild(newLearnInfoRating)
+              newLearnInfoSection.appendChild(newLearnInfoPrice)
+              elLearnInfoBtn.appendChild(newLearnInfoDesc)
             }
 
       element.appendChild(newSection)
