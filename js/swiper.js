@@ -1,6 +1,6 @@
 var swiper = new Swiper(".mySwiper", {
   autoplay: {
-    delay: 2000,
+    delay: 3500,
     disableOnInteraction: false,
   },
   navigation: {
@@ -13,15 +13,15 @@ var swiper = new Swiper(".mySwiper", {
 
 
 
-
-
-
-
 let elList = document.querySelector('.swiper-list')
 
+let elOverlay = document.querySelector(".overlay")
+let elInfo = document.querySelector('.hero-info')
 
-const renderSwip = function(arr, element){
+const renderSwip = function(arr, element, elLearnInfoBtn){
   arr.forEach(amazon => {
+
+
       let newSection = document.createElement('div')
       let newHeroSection = document.createElement('div')
       let newHeroLeftSection = document.createElement('div')
@@ -51,6 +51,36 @@ const renderSwip = function(arr, element){
       newBuyBtn.textContent = "Buy now"
       newLearnBtn.textContent = "Learn More"
 
+            elInfo.classList.add('hidden')
+            elOverlay.classList.add('hidden-overlay')
+
+            newLearnBtn.onclick = function() {
+              elInfo.classList.remove('hidden')
+              elOverlay.classList.remove('hidden-overlay')
+              elInfo.innerHTML = null
+
+
+              let newLearnHeroSection = document.createElement('div')
+              let newLearnCloseBtn = document.createElement('i')
+              let newLearnHeroHeading = document.createElement('h5')
+
+              newLearnHeroSection.setAttribute('class', 'learn-hero-section')
+              newLearnCloseBtn.setAttribute('class', 'close-btn')
+              newLearnCloseBtn.setAttribute('class', 'close-btn fas fa-times')
+              newLearnHeroHeading.setAttribute('class', 'learn-hero-heading')
+
+              newLearnHeroHeading.textContent = amazon.title
+
+              newLearnCloseBtn.addEventListener('click', function(){
+                elOverlay.classList.add('hidden-overlay')
+                elInfo.classList.add('hidden')
+            })
+
+            elLearnInfoBtn.appendChild(newLearnCloseBtn)
+              elLearnInfoBtn.appendChild(newLearnHeroSection)
+              newLearnHeroSection.appendChild(newLearnHeroHeading)
+            }
+
       element.appendChild(newSection)
       newSection.appendChild(newHeroSection)
       newHeroSection.appendChild(newHeroLeftSection)
@@ -64,15 +94,25 @@ const renderSwip = function(arr, element){
   })
 }
 
-renderSwip(amazon, elList)
+renderSwip(amazon, elList, elInfo)
+
+
+elOverlay.addEventListener('click', function(evt){
+  evt.preventDefault();
+  elOverlay.classList.add('hidden-overlay')
+  elInfo.classList.add('hidden')
+})
+
+
+document.addEventListener('keydown', function(evt){
+  if(evt.key === "Escape"){
+    elOverlay.classList.add('hidden-overlay')
+    elInfo.classList.add('hidden')
+  }
+})
 
 
 
-
-let elOverlay = document.querySelector(".overlay")
-let elInfo = document.querySelector('hero-info')
-
-newLearnBtn.oncl
 
 
 function heartRed(e) {
