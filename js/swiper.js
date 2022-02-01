@@ -65,3 +65,22 @@ const renderSwip = function(arr, element){
 }
 
 renderSwip(amazon, elList)
+
+
+
+
+let elOverlay = document.querySelector(".overlay")
+let elInfo = document.querySelector('hero-info')
+
+newLearnBtn.oncl
+
+
+function heartRed(e) {
+    const heart = document.querySelector("#heart")
+    heart.classList.toggle("redStyle")
+}
+
+function ShoppingBag(e) {
+    const shopping = document.querySelector("#shopping")
+    shopping.classList.toggle("shopStyle")
+}
