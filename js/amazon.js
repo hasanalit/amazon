@@ -156,7 +156,7 @@ let amazon = [
     "smallThumbnail": "https://olcha.uz/image/original/products/j3SxkCQXpTM9mFSdqtHQqZ05hbhH1jCJ0wTdqp5TA94toQSRlLGWrXM51Ht7.jpeg",
   },
   {
-    "title": "Авточехлы CaCar seat covers",
+    "title": "CaCar seat covers",
     "categories": [
       "Automtive"
     ],

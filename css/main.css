@@ -88,6 +88,11 @@ body{
       align-items: center;
   }
 
+  .hero-section {
+    display: flex;
+    align-items: center;
+  }
+
   .hero-left-section {
       margin-right: 176px;
       width: 100%;
@@ -137,6 +142,43 @@ body{
       color: rgba(35, 47, 62, 0.48);
   }
 
+  .hero-buy-section {
+      text-align: left;
+  }
+
+  .hero-buy-btn {
+      color: #146EB4;
+      border: 1px solid #146EB4;
+  }
+
+  .hero-buy-btn:hover {
+    background-color: #146EB4;
+    color: #fff;
+  }
+
+  .hero-buy-btn:active {
+      background-color: #146EB4;
+      color: #fff;
+  }
+
+  .hero-learn-btn {
+      margin-left: 12px;
+      color: #146EB4;
+      border: 1px solid #146EB4;
+  }
+
+    .hero-learn-btn:hover {
+      background-color: #146EB4;
+      color: #fff;
+  }
+
+    .hero-learn-btn:active {
+      background-color: #146EB4;
+      color: #fff;
+  }
+
+
+
 
 .header-container {
     display: flex;
@@ -166,8 +208,9 @@ body{
     display: flex;
     align-items: center;
     justify-content: space-between;
+    margin-left: 10px;
     width: 100%;
-    max-width: 77px;
+    max-width: 60px;
 }
 
 .header-second-section {
@@ -190,8 +233,10 @@ body{
     font-family: Roboto;
     font-size: 14px;
     line-height: 16px;
+    background: rgba(242, 242, 242, 0.48);
     border: none;
     border-left: 1px solid gray;
+    outline: none;
 }
 
 .header-carbon {
@@ -211,6 +256,14 @@ body{
     background: #232F3E;
 }
 
-.name-desc {
-    display: block;
+.header-left-btn:hover {
+    color: #fff;
+}
+
+.redStyle {
+    color: red;
+}
+
+.shopStyle {
+    color: red;
 }
