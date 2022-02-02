@@ -147,8 +147,8 @@ const renderAmazon = function(array, elements, infoMenu){
     newAmazonPrice.setAttribute('class', 'amazon-price')
     newAmazonRating.setAttribute('class', 'amazon-rating')
     newAmazonbottom.setAttribute('class', 'amazon-bottom-section')
-    newAmazonCard.setAttribute('class', 'amazon-btn-card')
-    newAmazonView.setAttribute('class', 'amazon-btn-view')
+    newAmazonCard.setAttribute('class', 'amazon-btn-card btn')
+    newAmazonView.setAttribute('class', 'amazon-btn-view btn')
 
     newAmazonWarranty.textContent = arr.garantiya
     newAmazonTitle.textContent = arr.title
