@@ -126,10 +126,48 @@ renderSwip(amazon, elList, elInfo)
 const renderAmazon = function(array, elements, infoMenu){
   array.forEach(arr => {
     let newAmazonItem = document.createElement('li')
+    let newAmazonImg = document.createElement('img')
+    let newAmazonHeroSection = document.createElement('div')
+    let newAmazonWarranty = document.createElement('p')
+    let newAmazonTitle = document.createElement('h5')
+    let newAmazonIncludeSection = document.createElement('div')
+    let newAmazonPrice = document.createElement('p')
+    let newAmazonRating = document.createElement('p')
+    let newAmazonbottom = document.createElement('div')
+    let newAmazonCard = document.createElement('button')
+    let newAmazonView = document.createElement('button')
 
-    newAmazonItem.textContent = arr.title
+    newAmazonItem.setAttribute('class', 'amazon-item')
+    newAmazonImg.setAttribute('class', 'amazon-img')
+    newAmazonImg.setAttribute('src', arr.smallThumbnail)
+    newAmazonHeroSection.setAttribute('class', 'amazon-hero-section')
+    newAmazonWarranty.setAttribute('class', 'amazon-warranty')
+    newAmazonTitle.setAttribute('class', 'amazon-title')
+    newAmazonIncludeSection.setAttribute('class', 'amazon-include-section')
+    newAmazonPrice.setAttribute('class', 'amazon-price')
+    newAmazonRating.setAttribute('class', 'amazon-rating')
+    newAmazonbottom.setAttribute('class', 'amazon-bottom-section')
+    newAmazonCard.setAttribute('class', 'amazon-btn-card')
+    newAmazonView.setAttribute('class', 'amazon-btn-view')
+
+    newAmazonWarranty.textContent = arr.garantiya
+    newAmazonTitle.textContent = arr.title
+    newAmazonPrice.textContent = `${arr.price}$`
+    newAmazonRating.textContent = arr.imdbRating
+    newAmazonCard.textContent = "Add to Card"
+    newAmazonView.textContent = "Quick view"
 
     elements.appendChild(newAmazonItem)
+    newAmazonItem.appendChild(newAmazonImg)
+    newAmazonItem.appendChild(newAmazonHeroSection)
+    newAmazonHeroSection.appendChild(newAmazonWarranty)
+    newAmazonHeroSection.appendChild(newAmazonTitle)
+    newAmazonHeroSection.appendChild(newAmazonIncludeSection)
+    newAmazonIncludeSection.appendChild(newAmazonPrice)
+    newAmazonIncludeSection.appendChild(newAmazonRating)
+    newAmazonItem.appendChild(newAmazonbottom)
+    newAmazonbottom.appendChild(newAmazonCard)
+    newAmazonbottom.appendChild(newAmazonView)
   })
 }
 renderAmazon(amazon, elAmazonList, elAmazonInfo)
