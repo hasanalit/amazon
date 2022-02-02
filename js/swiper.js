@@ -44,6 +44,7 @@ const renderSwip = function(arr, element, elLearnInfoBtn){
       newHeroBuyBtnSection.setAttribute('class', 'hero-buy-section')
       newBuyBtn.setAttribute('class', 'hero-buy-btn btn')
       newBuyBtn.setAttribute('href', './about.html')
+      newBuyBtn.setAttribute('target', '_blank')
       newLearnBtn.setAttribute('class', 'hero-learn-btn btn')
 
       newdescName.textContent = amazon.saralash
