@@ -126,6 +126,7 @@ renderSwip(amazon, elList, elInfo)
 const renderAmazon = function(array, elements, infoMenu){
   array.forEach(arr => {
     let newAmazonItem = document.createElement('li')
+    let newAmazonImgSection = document.createElement('div')
     let newAmazonImg = document.createElement('img')
     let newAmazonHeroSection = document.createElement('div')
     let newAmazonWarranty = document.createElement('p')
@@ -138,6 +139,7 @@ const renderAmazon = function(array, elements, infoMenu){
     let newAmazonView = document.createElement('button')
 
     newAmazonItem.setAttribute('class', 'amazon-item')
+    newAmazonImgSection.setAttribute('class', 'amazon-img-section')
     newAmazonImg.setAttribute('class', 'amazon-img')
     newAmazonImg.setAttribute('src', arr.smallThumbnail)
     newAmazonHeroSection.setAttribute('class', 'amazon-hero-section')
@@ -158,7 +160,8 @@ const renderAmazon = function(array, elements, infoMenu){
     newAmazonView.textContent = "Quick view"
 
     elements.appendChild(newAmazonItem)
-    newAmazonItem.appendChild(newAmazonImg)
+    newAmazonItem.appendChild(newAmazonImgSection)
+    newAmazonImgSection.appendChild(newAmazonImg)
     newAmazonItem.appendChild(newAmazonHeroSection)
     newAmazonHeroSection.appendChild(newAmazonWarranty)
     newAmazonHeroSection.appendChild(newAmazonTitle)
