@@ -10,6 +10,8 @@ var swiper = new Swiper(".mySwiper", {
 
 });
 
+let elAmazonList = document.querySelector('.amazon-category')
+let elAmazonInfo = document.querySelector('.amazon-info')
 
 
 
@@ -120,6 +122,17 @@ const renderSwip = function(arr, element, elLearnInfoBtn){
 }
 
 renderSwip(amazon, elList, elInfo)
+
+const renderAmazon = function(array, elements, infoMenu){
+  array.forEach(arr => {
+    let newAmazonItem = document.createElement('li')
+
+    newAmazonItem.textContent = arr.title
+
+    elements.appendChild(newAmazonItem)
+  })
+}
+renderAmazon(amazon, elAmazonList, elAmazonInfo)
 
 
 elOverlay.addEventListener('click', function(evt){
