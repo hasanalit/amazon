@@ -136,7 +136,10 @@ document.addEventListener('keydown', function(evt){
 
 
 
-
+function searchRed(e) {
+  const elSearchIcon = document.querySelector('#search-icon')
+  elSearchIcon.classList.toggle("search-icon")
+}
 
 function heartRed(e) {
     const heart = document.querySelector("#heart")
@@ -147,3 +150,8 @@ function ShoppingBag(e) {
     const shopping = document.querySelector("#shopping")
     shopping.classList.toggle("shopStyle")
 }
+
+// function mapColor(e) {
+//   const elMap = document.querySelector("#map-icon")
+//   elMap.classList.toggle('icon-map')
+// }
