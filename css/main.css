@@ -375,6 +375,54 @@ body{
     color: red;
 }
 
-/* .icon-map {
-    color: red;
-} */
+
+/* MAIN */
+/* .main-amazon {} */
+
+.amazon-hero-section {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 40px 0px;
+}
+
+.amazon-hero-desc-left{
+    margin: 0;
+    font-family: Roboto;
+    font-size: 24px;
+    line-height: 28px;
+    color: #000000;
+}
+
+.amazon-hero-desc-right {
+    margin: 0;
+    font-family: Roboto;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: right;
+    color: #146EB4;
+}
+
+.select-category-list {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    list-style: none;
+}
+
+.select-category-item {
+    padding: 40px 20px;
+}
+
+.select-category-item + .select-category-item  {
+    margin-left: 20px;
+}
+
+.category-desc {
+    font-family: Roboto;
+    font-size: 13px;
+    line-height: 15px;
+    color: #232F3E;
+}
