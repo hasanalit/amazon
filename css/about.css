@@ -1,0 +1,73 @@
+body {
+    height: 100%;
+    text-align: center;
+}
+
+.form {
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px;
+}
+
+.form__section + .form__section {
+    margin-top: 24px;
+}
+
+.form__input {
+    background-color: transparent;
+    width: 540px;
+    height: 42px;
+    color: #000;
+    border: none;
+    border-bottom: 1px solid #000;
+}
+
+.form__input::placeholder {
+    padding-left: 14px;
+    padding-bottom: 16px;
+    font-family: Livvic;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 25px;
+    color: #000;
+    opacity: 0.6;
+}
+
+.form__massage {
+    background-color: transparent;
+    width: 540px;
+    height: 84px;
+    border: none;
+    color: #000;
+    border-bottom: 1px solid #000;
+}
+
+.form__massage::placeholder {
+    padding-left: 14px;
+    padding-bottom: 58px;
+    font-family: Livvic;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 25px;
+    color: #000;
+    opacity: 0.6;
+}
+
+.form__btn {
+    margin-top: 24px;
+    font-family: Livvic;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 28px;
+    color: #fff;
+    background-color: #000;
+    width: 123px;
+    height: 48px;
+    border: none;
+    border-radius: 30px;
+    cursor: pointer;
+}
+
+.form__btn:hover {
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
+}

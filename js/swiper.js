@@ -30,7 +30,7 @@ const renderSwip = function(arr, element, elLearnInfoBtn){
       let newInfoDesc = document.createElement('p')
       let newImg = document.createElement('img')
       let newHeroBuyBtnSection = document.createElement('div')
-      let newBuyBtn = document.createElement('button')
+      let newBuyBtn = document.createElement('a')
       let newLearnBtn = document.createElement('button')
 
       newSection.setAttribute('class', 'swiper-slide')
@@ -43,6 +43,7 @@ const renderSwip = function(arr, element, elLearnInfoBtn){
       newInfoDesc.setAttribute('class', 'info-desc')
       newHeroBuyBtnSection.setAttribute('class', 'hero-buy-section')
       newBuyBtn.setAttribute('class', 'hero-buy-btn btn')
+      newBuyBtn.setAttribute('href', './about.html')
       newLearnBtn.setAttribute('class', 'hero-learn-btn btn')
 
       newdescName.textContent = amazon.saralash
