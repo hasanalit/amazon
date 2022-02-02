@@ -2,7 +2,7 @@ let amazon = [
   {
     "title": "Apple Iphone 13 Mini 512GB",
     "categories": [
-      "phone"
+      "Phone"
     ],
     "id": "44",
     "imdbRating": "⭐️⭐️⭐️⭐️",
@@ -236,7 +236,7 @@ let amazon = [
   {
     "title": "Set for boys/girls O'zbebek",
     "categories": [
-      "baby"
+      "Baby"
     ],
     "id": "18",
     "imdbRating": "⭐️⭐️",
@@ -249,7 +249,7 @@ let amazon = [
   {
     "title": "Dress for girls O'zbebek",
     "categories": [
-      "baby"
+      "Baby"
     ],
     "id": "19",
     "imdbRating": "⭐️⭐️⭐️⭐️⭐️",
@@ -262,7 +262,7 @@ let amazon = [
   {
     "title": "Overalls for newborns",
     "categories": [
-      "baby"
+      "Baby"
     ],
     "id": "20",
     "imdbRating": "⭐️⭐️⭐️",
@@ -275,7 +275,7 @@ let amazon = [
   {
     "title": "Jumper for newborns",
     "categories": [
-      "baby"
+      "Baby"
     ],
     "id": "21",
     "imdbRating": "⭐️⭐️⭐️",
@@ -288,7 +288,7 @@ let amazon = [
   {
     "title": "Pajamas for boys O'zbebek",
     "categories": [
-      "baby"
+      "Baby"
     ],
     "id": "22",
     "imdbRating": "⭐️⭐️⭐️⭐️",
@@ -301,7 +301,7 @@ let amazon = [
   {
     "title": "Rectifier Maxwell",
     "categories": [
-      "beauty"
+      "Beauty"
     ],
     "id": "23",
     "imdbRating": "⭐️⭐️⭐️⭐️",
@@ -314,7 +314,7 @@ let amazon = [
   {
     "title": "Hair dryer Philips",
     "categories": [
-      "beauty"
+      "Beauty"
     ],
     "id": "24",
     "imdbRating": "⭐️⭐️⭐️",
@@ -327,7 +327,7 @@ let amazon = [
   {
     "title": "Hair dryer Philips",
     "categories": [
-      "beauty"
+      "Beauty"
     ],
     "id": "25",
     "imdbRating": "⭐️⭐️⭐️⭐️",
@@ -340,7 +340,7 @@ let amazon = [
   {
     "title": "Hair dryer Polaris",
     "categories": [
-      "beauty"
+      "Beauty"
     ],
     "id": "26",
     "imdbRating": "⭐️⭐️⭐️⭐️⭐️",
@@ -353,7 +353,7 @@ let amazon = [
   {
     "title": "Hugo Woman Extreme Hugoo",
     "categories": [
-      "beauty"
+      "Beauty"
     ],
     "id": "27",
     "imdbRating": "⭐️⭐️⭐️⭐️⭐️",
@@ -366,7 +366,7 @@ let amazon = [
   {
     "title": "Stainless steel bowl",
     "categories": [
-      "kitchen"
+      "Kitchen"
     ],
     "id": "28",
     "imdbRating": "⭐️⭐️⭐️",
@@ -379,7 +379,7 @@ let amazon = [
   {
     "title": "5-piece cauldron set",
     "categories": [
-      "kitchen"
+      "Kitchen"
     ],
     "id": "29",
     "imdbRating": "⭐️⭐️",
@@ -392,7 +392,7 @@ let amazon = [
   {
     "title": "Kazan for pilaf Dream",
     "categories": [
-      "kitchen"
+      "Kitchen"
     ],
     "id": "30",
     "imdbRating": "⭐️⭐️⭐️",
@@ -405,7 +405,7 @@ let amazon = [
   {
     "title": "Frying pan-Brilliant",
     "categories": [
-      "kitchen"
+      "Kitchen"
     ],
     "id": "31",
     "imdbRating": "⭐️⭐️⭐️⭐️⭐️",
@@ -418,7 +418,7 @@ let amazon = [
   {
     "title": "Service kit Mina",
     "categories": [
-      "kitchen"
+      "Kitchen"
     ],
     "id": "32",
     "imdbRating": "⭐️⭐️⭐️⭐️⭐️",
@@ -431,7 +431,7 @@ let amazon = [
   {
     "title": "TV Panasonic",
     "categories": [
-      "television"
+      "Television"
     ],
     "id": "33",
     "imdbRating": "⭐️⭐️⭐️⭐️⭐️",
@@ -443,7 +443,7 @@ let amazon = [
   },  {
     "title": "TV Artel Android TV",
     "categories": [
-      "television"
+      "Television"
     ],
     "id": "34",
     "imdbRating": "⭐️⭐️⭐️⭐️⭐️",
@@ -456,7 +456,7 @@ let amazon = [
   {
     "title": "TV Premier",
     "categories": [
-      "television"
+      "Television"
     ],
     "id": "35",
     "imdbRating": "⭐️⭐️",
@@ -469,7 +469,7 @@ let amazon = [
   {
     "title": "Acoustic system Meirende",
     "categories": [
-      "television"
+      "Television"
     ],
     "id": "36",
     "imdbRating": "⭐️⭐️⭐️",
@@ -482,7 +482,7 @@ let amazon = [
   {
     "title": "Music center Philips",
     "categories": [
-      "television"
+      "Television"
     ],
     "id": "37",
     "imdbRating": "⭐️⭐️⭐️⭐️",
@@ -495,7 +495,7 @@ let amazon = [
   {
     "title": "Xiaomi Mi Box 4K",
     "categories": [
-      "television"
+      "Television"
     ],
     "id": "38",
     "imdbRating": "⭐️⭐️",
@@ -508,7 +508,7 @@ let amazon = [
   {
     "title": "TV Samsung",
     "categories": [
-      "television"
+      "Television"
     ],
     "id": "39",
     "imdbRating": "⭐️⭐️⭐️⭐️⭐️",
@@ -521,7 +521,7 @@ let amazon = [
   {
     "title": "Washing machine",
     "categories": [
-      "washingmachin"
+      "Machine"
     ],
     "id": "40",
     "imdbRating": "⭐️⭐️⭐️",
@@ -534,7 +534,7 @@ let amazon = [
   {
     "title": "Washing machine",
     "categories": [
-      "washingmachin"
+      "Machine"
     ],
     "id": "41",
     "imdbRating": "⭐️⭐️⭐️⭐️",
@@ -547,7 +547,7 @@ let amazon = [
   {
     "title": "Washing machine",
     "categories": [
-      "washingmachin"
+      "Machine"
     ],
     "id": "42",
     "imdbRating": "⭐️⭐️⭐️⭐️⭐️",
@@ -560,7 +560,7 @@ let amazon = [
   {
     "title": "Nokia 3310, Blue",
     "categories": [
-      "phone"
+      "Phone"
     ],
     "id": "43",
     "imdbRating": "⭐️",
@@ -573,7 +573,7 @@ let amazon = [
   {
     "title": "Apple Iphone 13 Mini 512GB",
     "categories": [
-      "phone"
+      "Phone"
     ],
     "id": "44",
     "imdbRating": "⭐️⭐️⭐️⭐️",
@@ -586,7 +586,7 @@ let amazon = [
   {
     "title": "Apple iPhone 13 Pro Max 256GB",
     "categories": [
-      "phone"
+      "Phone"
     ],
     "id": "45",
     "imdbRating": "⭐️⭐️⭐️⭐️⭐️",
@@ -599,7 +599,7 @@ let amazon = [
   {
     "title": "Samsung Galaxy 5G 8/256GB",
     "categories": [
-      "phone"
+      "Phone"
     ],
     "id": "46",
     "imdbRating": "⭐️⭐️⭐️⭐️",
@@ -612,7 +612,7 @@ let amazon = [
   {
     "title": "Dell Pro Briefcase Laptop Bag",
     "categories": [
-      "bag"
+      "Bag"
     ],
     "id": "47",
     "imdbRating": "⭐️⭐️⭐️⭐️",
@@ -625,7 +625,7 @@ let amazon = [
   {
     "title": "Unique backpack for mom",
     "categories": [
-      "bag"
+      "Bag"
     ],
     "id": "48",
     "imdbRating": "⭐️⭐️⭐️",
@@ -638,7 +638,7 @@ let amazon = [
   {
     "title": "Bryuk",
     "categories": [
-      "wear"
+      "Men"
     ],
     "id": "50",
     "imdbRating": "⭐️⭐️⭐️",

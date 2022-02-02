@@ -20,6 +20,51 @@ let elList = document.querySelector('.swiper-list')
 let elOverlay = document.querySelector(".overlay")
 let elInfo = document.querySelector('.hero-info')
 
+
+
+// const genereteCategorie = function(movies){
+//   const filteredCategories = []
+
+//   movies.forEach(movie => {
+//     movie.categories.forEach(categorie => {
+//       if(!filteredCategories.includes(categorie)){
+//         filteredCategories.push(categorie)
+//       }
+//     })
+//   })
+
+//   filteredCategories.forEach(categorie => {
+//     let newOption = document.createElement('option')
+
+//     newOption.value = categorie
+//     newOption.textContent = categorie
+
+//     elSelect.appendChild(newOption)
+//   })
+// }
+const genereteCategorie = function(amazons){
+  const filteredCategories = []
+
+  amazon.forEach(amazo => {
+    amazo.categories.forEach(categorie => {
+      if(!filteredCategories.includes(categorie)){
+        filteredCategories.push(categorie)
+      }
+    })
+  })
+  filteredCategories.forEach(categorie => {
+    let elKitchen = document.querySelector('.kitchen')
+
+    elKitchen.value = categorie
+  })
+}
+
+
+
+
+
+
+
 const renderSwip = function(arr, element, elLearnInfoBtn){
   arr.forEach(amazon => {
 
@@ -174,6 +219,18 @@ const renderAmazon = function(array, elements, infoMenu){
   })
 }
 renderAmazon(amazon, elAmazonList, elAmazonInfo)
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 elOverlay.addEventListener('click', function(evt){
