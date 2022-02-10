@@ -12,7 +12,8 @@ var swiper = new Swiper(".mySwiper", {
 
 let elAmazonList = document.querySelector('.amazon-category')
 let elAmazonInfo = document.querySelector('.amazon-info')
-
+let elSelectCategoryList = document.querySelector('.select-category-list')
+let elSelectDesc = document.querySelector('.category-desc')
 
 
 let elList = document.querySelector('.swiper-list')
@@ -22,46 +23,54 @@ let elInfo = document.querySelector('.hero-info')
 
 
 
-// const genereteCategorie = function(movies){
-//   const filteredCategories = []
 
-//   movies.forEach(movie => {
-//     movie.categories.forEach(categorie => {
-//       if(!filteredCategories.includes(categorie)){
-//         filteredCategories.push(categorie)
-//       }
-//     })
-//   })
-
-//   filteredCategories.forEach(categorie => {
-//     let newOption = document.createElement('option')
-
-//     newOption.value = categorie
-//     newOption.textContent = categorie
-
-//     elSelect.appendChild(newOption)
-//   })
-// }
-const genereteCategorie = function(amazons){
-  const filteredCategories = []
-
-  amazon.forEach(amazo => {
-    amazo.categories.forEach(categorie => {
-      if(!filteredCategories.includes(categorie)){
-        filteredCategories.push(categorie)
-      }
-    })
-  })
-  filteredCategories.forEach(categorie => {
-    let elKitchen = document.querySelector('.kitchen')
-
-    elKitchen.value = categorie
-  })
-}
-
-
-
-
+const newSelect = [
+  {
+    id: 1,
+    img: "./images/car.png",
+    title: "Automtive",
+  },
+  {
+    id: 2,
+    img: "./images/baby.png",
+    title: "Baby",
+  },
+  {
+    id: 3,
+    img: "./images/beauty.png",
+    title: "Beauty",
+  },
+  {
+    id: 4,
+    img: "./images/men.png",
+    title: "Men",
+  },
+  {
+    id: 5,
+    img: "./images/washing.png",
+    title: "Machine",
+  },
+  {
+    id: 6,
+    img: "./images/mobile-solid.svg",
+    title: "Phone",
+  },
+  {
+    id: 7,
+    img: "./images/kitchen.png",
+    title: "Kitchen",
+  },
+  {
+    id: 8,
+    img: "./images/television.png",
+    title: "Television",
+  },
+  {
+    id: 9,
+    img: "./images/bag.png",
+    title: "Bag",
+  },
+]
 
 
 
@@ -220,6 +229,65 @@ const renderAmazon = function(array, elements, infoMenu){
 }
 renderAmazon(amazon, elAmazonList, elAmazonInfo)
 
+
+
+
+
+
+const renderBookmarks = function(arr, elements){
+  arr.forEach(function(item) {
+    const newBookmarkItem = document.createElement('li')
+    const newBookmarkImg = document.createElement('img')
+    const newBookmarkDesc = document.createElement('p')
+
+    newBookmarkItem.classList.add('select-category-item')
+    newBookmarkImg.setAttribute('src', item.img)
+    newBookmarkImg.setAttribute('width', '55')
+    newBookmarkImg.setAttribute('height', '55')
+    newBookmarkDesc.setAttribute('class', 'category-desc')
+
+const genereteCategorie = function(amazon){
+  const filteredCategories = []
+
+  amazon.forEach(amazons => {
+    amazons.categories.forEach(categorie => {
+      if(!filteredCategories.includes(categorie)){
+        filteredCategories.push(categorie)
+      }
+    })
+  })
+
+  filteredCategories.forEach(categorie => {
+
+        newBookmarkItem.addEventListener('submit', (evt) => {
+          evt.preventDefault();
+          elAmazonList.innerHTML = null
+
+          newBookmarkDesc.textContent = item.title
+
+          if(newBookmarkDesc.textContent == categorie){
+            renderAmazon(amazon, elAmazonList, elAmazonInfo)
+          }
+          // newBookmarkDesc.value = categorie
+        })
+
+        //   // DATASET
+        // newBookmarkItem.dataset.bookmarkItemIdData = item.title
+
+      })
+    }
+    genereteCategorie(amazon)
+
+
+    elements.appendChild(newBookmarkItem)
+    newBookmarkItem.appendChild(newBookmarkImg)
+    newBookmarkItem.appendChild(newBookmarkDesc)
+  })
+}
+
+
+
+renderBookmarks(newSelect, elSelectCategoryList)
 
 
 
