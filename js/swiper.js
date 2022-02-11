@@ -246,37 +246,7 @@ const renderBookmarks = function(arr, elements){
     newBookmarkImg.setAttribute('height', '55')
     newBookmarkDesc.setAttribute('class', 'category-desc')
 
-const genereteCategorie = function(amazon){
-  const filteredCategories = []
-
-  amazon.forEach(amazons => {
-    amazons.categories.forEach(categorie => {
-      if(!filteredCategories.includes(categorie)){
-        filteredCategories.push(categorie)
-      }
-    })
-  })
-
-  filteredCategories.forEach(categorie => {
-
-        newBookmarkItem.addEventListener('submit', (evt) => {
-          evt.preventDefault();
-          elAmazonList.innerHTML = null
-
-          newBookmarkDesc.textContent = item.title
-
-          if(newBookmarkDesc.textContent == categorie){
-            renderAmazon(amazon, elAmazonList, elAmazonInfo)
-          }
-          // newBookmarkDesc.value = categorie
-        })
-
-        //   // DATASET
-        // newBookmarkItem.dataset.bookmarkItemIdData = item.title
-
-      })
-    }
-    genereteCategorie(amazon)
+    newBookmarkDesc.textContent = item.title
 
 
     elements.appendChild(newBookmarkItem)
@@ -288,15 +258,6 @@ const genereteCategorie = function(amazon){
 
 
 renderBookmarks(newSelect, elSelectCategoryList)
-
-
-
-
-
-
-
-
-
 
 
 
