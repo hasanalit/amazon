@@ -14,6 +14,7 @@ let elAmazonList = document.querySelector('.amazon-category')
 let elAmazonInfo = document.querySelector('.amazon-info')
 let elSelectCategoryList = document.querySelector('.select-category-list')
 let elSelectDesc = document.querySelector('.category-desc')
+let elSelectAll = document.querySelector('.amazon-hero-desc-right')
 
 
 let elList = document.querySelector('.swiper-list')
@@ -26,47 +27,47 @@ let elInfo = document.querySelector('.hero-info')
 
 const newSelect = [
   {
-    id: 1,
+    id: '1',
     img: "./images/car.png",
     title: "Automtive",
   },
   {
-    id: 2,
+    id: '2',
     img: "./images/baby.png",
     title: "Baby",
   },
   {
-    id: 3,
+    id: '3',
     img: "./images/beauty.png",
     title: "Beauty",
   },
   {
-    id: 4,
+    id: '4',
     img: "./images/men.png",
     title: "Men",
   },
   {
-    id: 5,
+    id: '5',
     img: "./images/washing.png",
     title: "Machine",
   },
   {
-    id: 6,
+    id: '6',
     img: "./images/mobile-solid.svg",
     title: "Phone",
   },
   {
-    id: 7,
+    id: '7',
     img: "./images/kitchen.png",
     title: "Kitchen",
   },
   {
-    id: 8,
+    id: '8',
     img: "./images/television.png",
     title: "Television",
   },
   {
-    id: 9,
+    id: '9',
     img: "./images/bag.png",
     title: "Bag",
   },
@@ -230,9 +231,27 @@ const renderAmazon = function(array, elements, infoMenu){
 renderAmazon(amazon, elAmazonList, elAmazonInfo)
 
 
+elSelectAll.addEventListener('click', ()=> {
+  elAmazonList.innerHTML = null;
+  renderAmazon(amazon, elAmazonList, elAmazonInfo)
+})
+
+elSelectCategoryList.addEventListener('click', function(evt){
+  const isBookmarkBtn = evt.target.matches(".select-category-item");
+
+  if(isBookmarkBtn){
+    const bookmarkBtnId = evt.target.dataset.bookmarkBtnIdData;
+
+    const foundIndex = amazon.filter(thing => thing.categories[0] == bookmarkBtnId)
+
+      elAmazonList.innerHTML = null
+
+      renderAmazon(foundIndex, elAmazonList, elAmazonInfo)
+  }
 
 
 
+})
 
 const renderBookmarks = function(arr, elements){
   arr.forEach(function(item) {
@@ -240,14 +259,16 @@ const renderBookmarks = function(arr, elements){
     const newBookmarkImg = document.createElement('img')
     const newBookmarkDesc = document.createElement('p')
 
-    newBookmarkItem.classList.add('select-category-item')
+    newBookmarkItem.setAttribute('class', 'select-category-item')
     newBookmarkImg.setAttribute('src', item.img)
-    newBookmarkImg.setAttribute('width', '55')
-    newBookmarkImg.setAttribute('height', '55')
+    newBookmarkImg.setAttribute('width', '55px')
+    newBookmarkImg.setAttribute('height', '55px')
     newBookmarkDesc.setAttribute('class', 'category-desc')
 
     newBookmarkDesc.textContent = item.title
 
+    // DATASET
+    newBookmarkItem.dataset.bookmarkBtnIdData = item.title
 
     elements.appendChild(newBookmarkItem)
     newBookmarkItem.appendChild(newBookmarkImg)
