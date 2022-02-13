@@ -238,6 +238,8 @@ elSelectAll.addEventListener('click', ()=> {
 
 elSelectCategoryList.addEventListener('click', function(evt){
   const isBookmarkBtn = evt.target.matches(".select-category-item");
+  const isBookmarkImg = evt.target.matches(".select-category-img");
+  const isBookmarkDesc = evt.target.matches(".category-desc");
 
   if(isBookmarkBtn){
     const bookmarkBtnId = evt.target.dataset.bookmarkBtnIdData;
@@ -249,6 +251,25 @@ elSelectCategoryList.addEventListener('click', function(evt){
       renderAmazon(foundIndex, elAmazonList, elAmazonInfo)
   }
 
+  if(isBookmarkImg){
+    const bookmarkBtnIdImg = evt.target.dataset.bookmarkBtnIdDataImg;
+
+    const foundIndexImg = amazon.filter(thing => thing.categories[0] == bookmarkBtnIdImg)
+
+      elAmazonList.innerHTML = null
+
+      renderAmazon(foundIndexImg, elAmazonList, elAmazonInfo)
+  }
+
+  if(isBookmarkDesc){
+    const bookmarkBtnIdDesc = evt.target.dataset.bookmarkBtnIdDataDesc;
+
+    const foundIndexDesc = amazon.filter(thing => thing.categories[0] == bookmarkBtnIdDesc)
+
+      elAmazonList.innerHTML = null
+
+      renderAmazon(foundIndexDesc, elAmazonList, elAmazonInfo)
+  }
 
 
 })
@@ -261,6 +282,7 @@ const renderBookmarks = function(arr, elements){
 
     newBookmarkItem.setAttribute('class', 'select-category-item')
     newBookmarkImg.setAttribute('src', item.img)
+    newBookmarkImg.setAttribute('class', 'select-category-img')
     newBookmarkImg.setAttribute('width', '55px')
     newBookmarkImg.setAttribute('height', '55px')
     newBookmarkDesc.setAttribute('class', 'category-desc')
@@ -269,6 +291,8 @@ const renderBookmarks = function(arr, elements){
 
     // DATASET
     newBookmarkItem.dataset.bookmarkBtnIdData = item.title
+    newBookmarkImg.dataset.bookmarkBtnIdDataImg = item.title
+    newBookmarkDesc.dataset.bookmarkBtnIdDataDesc = item.title
 
     elements.appendChild(newBookmarkItem)
     newBookmarkItem.appendChild(newBookmarkImg)
