@@ -396,15 +396,29 @@ body{
     color: #000000;
 }
 
+.main-amazon_right {
+    display: flex;
+    align-items: center;
+    margin-left: auto;
+    width: 200px;
+}
+
+.bookmark__img {
+    width: 20px;
+}
+
 .amazon-hero-desc-right {
     margin: 0;
-    margin-left: auto;
+    padding: 5px 10px;
     font-family: Roboto;
     font-weight: 500;
     font-size: 16px;
     line-height: 19px;
     text-align: right;
     color: #146EB4;
+    border-radius: 5px;
+    background-color: transparent;
+    border: 2px solid #146EB4;
 }
 
 .select-category-list {

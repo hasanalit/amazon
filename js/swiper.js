@@ -1,3 +1,5 @@
+"use strict";
+
 var swiper = new Swiper(".mySwiper", {
   autoplay: {
     delay: 3500,
@@ -15,6 +17,7 @@ let elAmazonInfo = document.querySelector('.amazon-info')
 let elSelectCategoryList = document.querySelector('.select-category-list')
 let elSelectDesc = document.querySelector('.category-desc')
 let elSelectAll = document.querySelector('.amazon-hero-desc-right')
+let elBookmarkList = document.querySelector(".bookmark-list")
 
 
 let elList = document.querySelector('.swiper-list')
@@ -178,6 +181,90 @@ const renderSwip = function(arr, element, elLearnInfoBtn){
 
 renderSwip(amazon, elList, elInfo)
 
+// BOOKMARK
+let bookmarks = [];
+
+
+
+const realRenderBookmarks = function(arr, element) {
+
+  arr.forEach(item => {
+      const newBookmarkItem = document.createElement('li');
+      let newBopkmarkNameSection = document.createElement('div')
+      let newBookmarkTitle = document.createElement('h3')
+      let newBookmarkDesc = document.createElement('p')
+      // let newBookmarkDelete = document.createElement('button')
+      // let newBookmarkDeleteImg = document.createElement('img')
+
+      newBookmarkItem.classList.add("bookmark__item");
+      newBopkmarkNameSection.classList.add("bookmark__name-section")
+      newBookmarkTitle.classList.add("books_hero_title")
+      newBookmarkDesc.classList.add("books_hero_desc")
+
+      // newBookmarkDelete.classList.add("bookmark__delete")
+      // newBookmarkDeleteImg.classList.add("bookmark__delete-img")
+      // newBookmarkDeleteImg.setAttribute("src", './images/bookmarkdelete.png')
+
+      newBookmarkTitle.textContent = item.title
+      newBookmarkDesc.textContent = item.price
+
+      // newBookmarkDelete.textContent = "Delete"
+
+      // newBookmarkDeleteImg.dataset.deleteBtnId = item.id;
+
+      element.appendChild(newBookmarkItem)
+      newBookmarkItem.appendChild(newBopkmarkNameSection)
+      newBopkmarkNameSection.appendChild(newBookmarkTitle)
+      newBopkmarkNameSection.appendChild(newBookmarkDesc)
+
+      // newBookmarkItem.appendChild(newBookmarkDelete)
+      // newBookmarkItem.appendChild(newBookmarkDeleteImg)
+  })
+}
+
+
+
+
+const renderBookmark = function(data) {
+  elAmazonList.addEventListener('click', function(evt){
+    const isBookmarkBtn = evt.target.matches(".amazon-btn-card")
+    // console.log(isBookmarkBtn);
+
+    if(isBookmarkBtn){
+      const realbookmarkBtnId = evt.target.dataset.realBookmarkDatasetIdData;
+      // console.log(realbookmarkBtnId);
+
+      const realFoundIndex = data.find((thing) => thing.id === realbookmarkBtnId)
+      // console.log(realFoundIndex);
+
+      if(!bookmarks.includes(realFoundIndex)){
+        bookmarks.push(realFoundIndex)
+
+        elBookmarkList.innerHTML = null;
+        realRenderBookmarks(bookmarks, elBookmarkList)
+      }
+    }
+  }
+  )
+}
+
+
+renderBookmark(amazon)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 const renderAmazon = function(array, elements, infoMenu){
   array.forEach(arr => {
     let newAmazonItem = document.createElement('li')
@@ -213,6 +300,10 @@ const renderAmazon = function(array, elements, infoMenu){
     newAmazonRating.textContent = arr.imdbRating
     newAmazonCard.textContent = "Add to Card"
     newAmazonView.textContent = "Quick view"
+
+
+    // DATASET
+    newAmazonCard.dataset.realBookmarkDatasetIdData = arr.id
 
 
     elInfo.classList.add('hidden')
