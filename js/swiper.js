@@ -214,6 +214,78 @@ const renderAmazon = function(array, elements, infoMenu){
     newAmazonCard.textContent = "Add to Card"
     newAmazonView.textContent = "Quick view"
 
+
+    elInfo.classList.add('hidden')
+    elOverlay.classList.add('hidden-overlay')
+
+
+
+
+
+
+
+
+
+    newAmazonView.onclick = function() {
+      elInfo.classList.remove('hidden')
+      elOverlay.classList.remove('hidden-overlay')
+      elInfo.innerHTML = null
+
+      // let learnInfoText = "Price"
+
+      let newLearnHeroSection = document.createElement('div')
+      let newLearnCloseBtn = document.createElement('i')
+      let newLearnInfoSection = document.createElement('div')
+      let newLearnInfoImgSection = document.createElement('div')
+      let newLearnInfoImg = document.createElement('img')
+      let newLearnHeroHeading = document.createElement('h5')
+      let newLearnInfoRating = document.createElement('p')
+      let newLearnInfoPrice = document.createElement('p')
+      let newLearnInfoDesc = document.createElement('p')
+
+      newLearnHeroSection.setAttribute('class', 'learn-hero-section')
+      newLearnCloseBtn.setAttribute('class', 'close-btn fas fa-times')
+      newLearnInfoSection.setAttribute('class', 'learn-info-hero-heading')
+      newLearnInfoImgSection.setAttribute('class', 'learn-info-images-section')
+      newLearnInfoImg.setAttribute('class', 'learn-info-images')
+      newLearnInfoImg.setAttribute('src', arr.smallThumbnail)
+      newLearnHeroHeading.setAttribute('class', 'learn-hero-heading')
+      newLearnInfoRating.setAttribute('class', 'learn-info-rating')
+      newLearnInfoPrice.setAttribute('class', 'learn-info-price')
+      newLearnInfoDesc.setAttribute('class', 'learn-info-desc')
+
+      newLearnHeroHeading.textContent = arr.title
+      newLearnInfoRating.textContent = arr.imdbRating
+      newLearnInfoPrice.textContent = `Price ${arr.price}$`
+      newLearnInfoDesc.textContent = arr.summary
+
+      newLearnCloseBtn.addEventListener('click', function(){
+        elOverlay.classList.add('hidden-overlay')
+        elInfo.classList.add('hidden')
+    })
+
+
+      infoMenu.appendChild(newLearnCloseBtn)
+      infoMenu.appendChild(newLearnHeroSection)
+      newLearnHeroSection.appendChild(newLearnInfoImgSection)
+      newLearnInfoImgSection.appendChild(newLearnInfoImg)
+      newLearnHeroSection.appendChild(newLearnInfoSection)
+      newLearnInfoSection.appendChild(newLearnHeroHeading)
+      newLearnInfoSection.appendChild(newLearnInfoRating)
+      newLearnInfoSection.appendChild(newLearnInfoPrice)
+      infoMenu.appendChild(newLearnInfoDesc)
+    }
+
+
+
+
+
+
+
+
+
+
+
     elements.appendChild(newAmazonItem)
     newAmazonItem.appendChild(newAmazonImgSection)
     newAmazonImgSection.appendChild(newAmazonImg)
@@ -228,12 +300,12 @@ const renderAmazon = function(array, elements, infoMenu){
     newAmazonbottom.appendChild(newAmazonView)
   })
 }
-renderAmazon(amazon, elAmazonList, elAmazonInfo)
+renderAmazon(amazon, elAmazonList, elInfo)
 
 
 elSelectAll.addEventListener('click', ()=> {
   elAmazonList.innerHTML = null;
-  renderAmazon(amazon, elAmazonList, elAmazonInfo)
+  renderAmazon(amazon, elAmazonList, elInfo)
 })
 
 elSelectCategoryList.addEventListener('click', function(evt){
@@ -248,7 +320,7 @@ elSelectCategoryList.addEventListener('click', function(evt){
 
       elAmazonList.innerHTML = null
 
-      renderAmazon(foundIndex, elAmazonList, elAmazonInfo)
+      renderAmazon(foundIndex, elAmazonList, elInfo)
   }
 
   if(isBookmarkImg){
@@ -258,7 +330,7 @@ elSelectCategoryList.addEventListener('click', function(evt){
 
       elAmazonList.innerHTML = null
 
-      renderAmazon(foundIndexImg, elAmazonList, elAmazonInfo)
+      renderAmazon(foundIndexImg, elAmazonList, elInfo)
   }
 
   if(isBookmarkDesc){
@@ -268,7 +340,7 @@ elSelectCategoryList.addEventListener('click', function(evt){
 
       elAmazonList.innerHTML = null
 
-      renderAmazon(foundIndexDesc, elAmazonList, elAmazonInfo)
+      renderAmazon(foundIndexDesc, elAmazonList, elInfo)
   }
 
 
