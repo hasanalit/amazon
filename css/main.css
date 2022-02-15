@@ -177,6 +177,22 @@ body{
       color: #fff;
   }
 
+  .bookmark-list {
+    position: absolute;
+    left: 50%;
+    top: 60px;
+    z-index: 10;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    transition: 0.5s;
+  }
+
+  .bookmark-hidden {
+      display: none;
+  }
+
+
   .hero-info {
     position: fixed;
     left: 25%;
@@ -213,6 +229,8 @@ body{
     /* display: none; */
     transform: translateY(-100vh);
   }
+
+
 
   .close-btn {
       position: absolute;

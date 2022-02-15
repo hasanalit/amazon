@@ -24,6 +24,7 @@ let elList = document.querySelector('.swiper-list')
 
 let elOverlay = document.querySelector(".overlay")
 let elInfo = document.querySelector('.hero-info')
+let elBookmarkIcon = document.querySelector('.bookmark__img')
 
 
 
@@ -252,9 +253,13 @@ const renderBookmark = function(data) {
 renderBookmark(amazon)
 
 
+elBookmarkList.classList.add('bookmark-hidden')
+elOverlay.classList.add('hidden-overlay')
 
-
-
+elBookmarkIcon.addEventListener('click', function() {
+  elBookmarkList.classList.remove('bookmark-hidden')
+  elOverlay.classList.remove('hidden-overlay')
+})
 
 
 
