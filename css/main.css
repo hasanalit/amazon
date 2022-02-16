@@ -178,8 +178,13 @@ body{
   }
 
   .bookmark-list {
-    position: absolute;
-    left: 50%;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    list-style: none;
+    width: 1000px;
+    position: fixed;
+    left: 16%;
     top: 60px;
     z-index: 10;
     background-color: #fff;
@@ -192,6 +197,14 @@ body{
       display: none;
   }
 
+  .bookmark__item {
+      margin-left: 30px;
+      width: 200px;
+  }
+
+  .books_hero_title {
+    font-family: 'Roboto';
+  }
 
   .hero-info {
     position: fixed;
@@ -427,6 +440,7 @@ body{
 
 .amazon-hero-desc-right {
     margin: 0;
+    margin-left: 20px;
     padding: 5px 10px;
     font-family: Roboto;
     font-weight: 500;
@@ -605,4 +619,8 @@ body{
 .amazon-btn-view:hover {
     color: #fff;
     background-color: #146EB4;
+}
+
+.error-bookmark {
+    color: #fff;
 }

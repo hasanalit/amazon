@@ -190,9 +190,11 @@ let bookmarks = [];
 const realRenderBookmarks = function(arr, element) {
 
   arr.forEach(item => {
+
+
       const newBookmarkItem = document.createElement('li');
       let newBopkmarkNameSection = document.createElement('div')
-      let newBookmarkTitle = document.createElement('h3')
+      let newBookmarkTitle = document.createElement('h5')
       let newBookmarkDesc = document.createElement('p')
       // let newBookmarkDelete = document.createElement('button')
       // let newBookmarkDeleteImg = document.createElement('img')
@@ -313,6 +315,7 @@ const renderAmazon = function(array, elements, infoMenu){
 
     elInfo.classList.add('hidden')
     elOverlay.classList.add('hidden-overlay')
+    elBookmarkList.classList.add('bookmark-hidden')
 
 
 
@@ -325,6 +328,7 @@ const renderAmazon = function(array, elements, infoMenu){
     newAmazonView.onclick = function() {
       elInfo.classList.remove('hidden')
       elOverlay.classList.remove('hidden-overlay')
+      elBookmarkList.classList.remove('bookmark-hidden')
       elInfo.innerHTML = null
 
       // let learnInfoText = "Price"
@@ -479,6 +483,7 @@ elOverlay.addEventListener('click', function(evt){
   evt.preventDefault();
   elOverlay.classList.add('hidden-overlay')
   elInfo.classList.add('hidden')
+  elBookmarkList.classList.add('bookmark-hidden')
 })
 
 
@@ -486,6 +491,7 @@ document.addEventListener('keydown', function(evt){
   if(evt.key === "Escape"){
     elOverlay.classList.add('hidden-overlay')
     elInfo.classList.add('hidden')
+    elBookmarkList.classList.add('bookmark-hidden')
   }
 })
 
