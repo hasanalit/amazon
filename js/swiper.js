@@ -328,7 +328,7 @@ const renderAmazon = function(array, elements, infoMenu){
     newAmazonView.onclick = function() {
       elInfo.classList.remove('hidden')
       elOverlay.classList.remove('hidden-overlay')
-      elBookmarkList.classList.remove('bookmark-hidden')
+      // elBookmarkList.classList.remove('bookmark-hidden')
       elInfo.innerHTML = null
 
       // let learnInfoText = "Price"

@@ -313,22 +313,14 @@ body{
       display: flex;
   }
 
-
-
 .header-container {
     display: flex;
     align-items: center;
-    justify-content: space-around;
+    justify-content: space-between;
 }
 
-.header-section {
-    display: flex;
-    align-items: center;
-    justify-content: space-around;
-    padding: 17px 14px;
-    width: 100%;
-    max-width: 600px;
-    background: rgba(242, 242, 242, 0.48);
+.amazon-logo {
+    margin-left: 20px;
 }
 
 .header-left-section {
@@ -354,25 +346,7 @@ body{
     text-decoration: none;
 }
 
-.header-select {
-    font-family: Roboto;
-    font-size: 12px;
-    line-height: 14px;
-    border: none;
-}
 
-.header-input {
-    padding: 10px 16px;
-    width: 100%;
-    max-width: 432px;
-    font-family: Roboto;
-    font-size: 14px;
-    line-height: 16px;
-    background: rgba(242, 242, 242, 0.48);
-    border: none;
-    border-left: 1px solid gray;
-    outline: none;
-}
 
 .header-carbon {
     margin: 0;
