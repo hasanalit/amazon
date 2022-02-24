@@ -189,38 +189,46 @@ let bookmarks = [];
 
 const realRenderBookmarks = function(arr, element) {
 
-  arr.forEach(item => {
+  const newDeleteBookmarkImages = document.createElement('img')
 
+  newDeleteBookmarkImages.setAttribute('class', 'bookmark-list-delete')
+  newDeleteBookmarkImages.setAttribute('src', './images/xmark.svg')
+
+  element.appendChild(newDeleteBookmarkImages)
+  arr.forEach(item => {
 
       const newBookmarkItem = document.createElement('li');
       let newBopkmarkNameSection = document.createElement('div')
       let newBookmarkTitle = document.createElement('h5')
       let newBookmarkDesc = document.createElement('p')
-      // let newBookmarkDelete = document.createElement('button')
-      // let newBookmarkDeleteImg = document.createElement('img')
+      let newBookmarkImages = document.createElement('img')
+      let newBookmarkDelete = document.createElement('button')
+      let newBookmarkDeleteImg = document.createElement('img')
 
       newBookmarkItem.classList.add("bookmark__item");
       newBopkmarkNameSection.classList.add("bookmark__name-section")
       newBookmarkTitle.classList.add("books_hero_title")
+      newBookmarkImages.classList.add("books_hero_images")
+      newBookmarkImages.setAttribute("src", item.smallThumbnail)
       newBookmarkDesc.classList.add("books_hero_desc")
 
-      // newBookmarkDelete.classList.add("bookmark__delete")
-      // newBookmarkDeleteImg.classList.add("bookmark__delete-img")
-      // newBookmarkDeleteImg.setAttribute("src", './images/bookmarkdelete.png')
+      newBookmarkDelete.classList.add("bookmark__delete")
+
 
       newBookmarkTitle.textContent = item.title
       newBookmarkDesc.textContent = item.price
 
-      // newBookmarkDelete.textContent = "Delete"
+      newBookmarkDelete.textContent = "Delete"
 
-      // newBookmarkDeleteImg.dataset.deleteBtnId = item.id;
+      // newBookmarkDelete.dataset.deleteBtnId = item.id;
 
       element.appendChild(newBookmarkItem)
       newBookmarkItem.appendChild(newBopkmarkNameSection)
+      newBopkmarkNameSection.appendChild(newBookmarkImages)
       newBopkmarkNameSection.appendChild(newBookmarkTitle)
       newBopkmarkNameSection.appendChild(newBookmarkDesc)
+      newBopkmarkNameSection.appendChild(newBookmarkDelete)
 
-      // newBookmarkItem.appendChild(newBookmarkDelete)
       // newBookmarkItem.appendChild(newBookmarkDeleteImg)
   })
 }
